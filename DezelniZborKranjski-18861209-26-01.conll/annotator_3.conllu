@@ -1,0 +1,7069 @@
+Stenografični _ O O
+zapisnik _ O O
+prve _ O O
+seje _ O O
+deželnega _ O I-ORG-U
+zbora _ O I-ORG-U
+kranjskega _ O I-ORG-U
+v _ O O
+Ljubljani _ O I-LOC
+dne _ O O
+9. _ O I-DATE
+decembra _ O I-DATE
+l. _ O I-DATE
+1886 _ O I-DATE
+. _ O O
+
+Nazoči _ O O
+Prvosednik _ O O
+Deželni _ O O
+glavar _ O O
+Gustav _ O I-PER
+grof _ O I-PER
+Thurn _ O I-PER
+- _ O I-PER
+Valsassina _ O I-PER
+Vladni _ O O
+zastopnik _ O O
+Deželni _ O O
+predsednik _ O O
+Andrej _ O B-PER
+baron _ O I-PER
+Winkler _ O I-PER
+Vsi _ O O
+članovi _ O O
+razun _ O O
+Knezoškof _ O O
+dr. _ O O
+Jakob _ O B-PER
+Missia _ O I-PER
+in _ O O
+dr. _ O O
+Henrik _ O B-PER
+Dolenec _ O I-PER
+
+Dnevni _ O O
+red _ O O
+1 _ O O
+. _ O O
+
+Otvorenje _ O O
+deželnega _ O O
+zbora _ O O
+. _ O O
+
+2 _ O O
+. _ O O
+
+Obljuba _ O O
+novo _ O O
+izvoljenega _ O O
+deželnega _ O O
+poslanca _ O O
+. _ O O
+
+3 _ O O
+. _ O O
+
+Naznanila _ O O
+deželno _ O O
+- _ O O
+zborskega _ O O
+predsedstva _ O O
+. _ O O
+
+4 _ O O
+. _ O O
+
+Volitev _ O O
+dveh _ O O
+rediteljev _ O O
+. _ O O
+
+5 _ O O
+. _ O O
+
+Volitev _ O O
+dveh _ O O
+verifikatorjev _ O O
+. _ O O
+
+6 _ O O
+. _ O O
+
+Volitev _ O O
+finančnega _ O I-ORG-U
+odseka _ O I-ORG-U
+11 _ O O
+članov _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+predlog _ O O
+. _ O O
+
+7 _ O O
+. _ O O
+
+Volitev _ O O
+gospodarskega _ O B-ORG-U
+odseka _ O I-ORG-U
+9 _ O O
+članov _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+predlog _ O O
+. _ O O
+
+8 _ O O
+. _ O O
+
+Volitev _ O O
+odseka _ O B-ORG-U
+7 _ O I-ORG-U
+članov _ O I-ORG-U
+za _ O I-ORG-U
+deželno _ O I-ORG-U
+- _ O I-ORG-U
+odborsko _ O I-ORG-U
+letno _ O I-ORG-U
+poročilo _ O I-ORG-U
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+predlog _ O O
+. _ O O
+
+9 _ O O
+. _ O O
+
+Priloga _ O O
+1 _ O O
+. _ O O
+
+Prisilne _ O I-MISC
+delalnice _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+10 _ O O
+. _ O O
+
+Priloga _ O O
+2 _ O O
+. _ O O
+
+Bolničnega _ O I-MISC
+, _ O I-MISC
+blazničnega _ O I-MISC
+, _ O I-MISC
+porodniškega _ O I-MISC
+in _ O I-MISC
+najdenškega _ O I-MISC
+zaklada _ O I-MISC
+proračuni _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+11 _ O O
+. _ O O
+
+Priloga _ O O
+3 _ O O
+. _ O O
+
+Grmske _ O I-ORG
+vino _ O I-ORG
+- _ O I-ORG
+in _ O I-ORG
+sadjerejske _ O I-ORG
+šole _ O I-ORG
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+12 _ O O
+. _ O O
+
+Priloga _ O O
+4 _ O O
+. _ O O
+
+Zaklada _ O I-MISC
+učiteljskih _ O I-MISC
+penzij _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+13 _ O O
+. _ O O
+
+Priloga _ O O
+5 _ O O
+. _ O O
+
+Normalno _ O I-MISC
+- _ O I-MISC
+šolskega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+14 _ O O
+. _ O O
+
+Priloga _ O O
+6 _ O O
+. _ O O
+
+Ustanovnih _ O I-MISC
+zakladov _ O I-MISC
+proračuni _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+15 _ O O
+. _ O O
+
+Priloga _ O O
+7 _ O O
+. _ O O
+
+Ustanovnih _ O I-MISC
+zakladov _ O I-MISC
+računski _ O O
+zaključki _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+16 _ O O
+. _ O O
+
+Priloga _ O O
+8 _ O O
+. _ O O
+
+Hiralničnega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887. _ O I-DATE
+in _ O O
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O B-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+17 _ O O
+. _ O O
+
+Priloga _ O O
+9 _ O O
+. _ O O
+
+Bolničnega _ O I-MISC
+, _ O I-MISC
+blazničnega _ O I-MISC
+, _ O I-MISC
+porodniškega _ O I-MISC
+in _ O I-MISC
+najdenškega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključki _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+18 _ O O
+. _ O O
+
+Priloga _ O O
+10 _ O O
+. _ O O
+
+Slapske _ O I-ORG
+vinarske _ O I-ORG
+in _ O I-ORG
+sadjarske _ O I-ORG
+šole _ O I-ORG
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+19 _ O O
+. _ O O
+
+Priloga _ O O
+11 _ O O
+. _ O O
+
+Zemljiško _ O I-MISC
+- _ O I-MISC
+odveznega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+20 _ O O
+. _ O O
+
+Priloga _ O O
+12 _ O O
+. _ O O
+
+Prisilne _ O I-MISC
+delalnice _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+21 _ O O
+. _ O O
+
+Priloga _ O O
+13 _ O O
+. _ O O
+
+Zemljiško _ O I-MISC
+- _ O I-MISC
+odveznega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+22 _ O O
+. _ O O
+
+Priloga _ O O
+14 _ O O
+. _ O O
+
+Deželno _ O I-MISC
+- _ O I-MISC
+kulturnega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887. _ O I-DATE
+in _ O O
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O B-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+23 _ O O
+. _ O O
+
+Priloga _ O O
+15 _ O O
+. _ O O
+
+Gledišnega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+24 _ O O
+. _ O O
+
+Priloga _ O O
+16 _ O O
+. _ O O
+
+Gledišnega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+25 _ O O
+. _ O O
+
+Priloga _ O O
+17 _ O O
+. _ O O
+
+Normalno _ O I-MISC
+- _ O I-MISC
+šolskega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+26 _ O O
+. _ O O
+
+Priloga _ O O
+18 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+zastran _ O O
+podpor _ O O
+za _ O O
+šolske _ O O
+zgradbe _ O O
+. _ O O
+
+27 _ O O
+. _ O O
+
+Priloga _ O O
+19 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+zastran _ O O
+letne _ O O
+remuneracije _ O O
+za _ O O
+živino _ O O
+- _ O O
+zdravnika _ O O
+v _ O O
+Radoljici _ O I-LOC
+. _ O O
+
+28 _ O O
+. _ O O
+
+Priloga _ O O
+20 _ O O
+. _ O O
+
+Muzejskega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+29 _ O O
+. _ O O
+
+Priloga _ O O
+21 _ O O
+. _ O O
+
+Muzejskega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+30 _ O O
+. _ O O
+
+Priloga _ O O
+22 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+o _ O O
+porabi _ O O
+izrednega _ O O
+kredita _ O O
+18.000 _ O O
+gld. _ O O
+, _ O O
+dovoljenega _ O O
+v _ O O
+ta _ O O
+namen _ O O
+, _ O O
+da _ O O
+se _ O O
+popravijo _ O O
+v _ O O
+jeseni _ O O
+l. _ O O
+1885. _ O I-DATE
+v _ O O
+političnem _ O I-ORG
+okraji _ O I-ORG
+Radoljškem _ O I-ORG
+po _ O O
+vremenskih _ O O
+nezgodah _ O O
+na _ O O
+javnem _ O O
+imetji _ O O
+napravljene _ O O
+poškodbe _ O O
+in _ O O
+o _ O O
+napravah _ O O
+izvršenih _ O O
+v _ O O
+to _ O O
+svrho _ O O
+, _ O O
+da _ O O
+se _ O O
+ohranijo _ O O
+nekatere _ O O
+vasi _ O O
+tega _ O O
+okraja _ O O
+po _ O O
+povodnji _ O O
+preteče _ O O
+jim _ O O
+nevarnosti _ O O
+. _ O O
+
+31 _ O O
+. _ O O
+
+Priloga _ O O
+23 _ O O
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+zastran _ O O
+režije _ O O
+in _ O O
+hrane _ O O
+v _ O O
+ljubljanski _ O O
+bolnišnici _ O O
+. _ O O
+
+32 _ O O
+. _ O O
+
+Priloga _ O O
+24 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+glede _ O O
+oskrbovalnih _ O O
+troskov _ O O
+za _ O O
+uboge _ O O
+bolnike _ O O
+v _ O O
+nejavnih _ O O
+bolnišnicah _ O O
+in _ O O
+v _ O O
+Srbskem _ O I-LOC
+kraljestvu _ O I-LOC
+. _ O O
+
+33 _ O O
+. _ O O
+
+Priloga _ O O
+25 _ O O
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+o _ O O
+končno _ O O
+veljavni _ O O
+uredbi _ O O
+najnižje _ O O
+dopuščene _ O O
+priklade _ O O
+na _ O O
+neposrednje _ O O
+davke _ O O
+za _ O O
+zemljiško _ O I-MISC
+- _ O I-MISC
+odvezni _ O I-MISC
+zaklad _ O I-MISC
+. _ O O
+
+34 _ O O
+. _ O O
+
+Priloga _ O O
+26 _ O O
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+glede _ O O
+naprave _ O O
+gozdnih _ O O
+drevesnic _ O O
+. _ O O
+
+35 _ O O
+. _ O O
+
+Priloga _ O O
+27 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+glede _ O O
+začasnega _ O O
+nadaljnega _ O O
+pobiranja _ O O
+deželnih _ O O
+priklad _ O O
+, _ O O
+kakor _ O O
+tudi _ O O
+deželne _ O O
+naklade _ O O
+od _ O O
+porabljenih _ O O
+žganih _ O O
+pijač _ O O
+leta _ O O
+1887 _ O I-DATE
+. _ O O
+
+Obseg _ O O
+: _ O O
+Glej _ O O
+dnevni _ O O
+red _ O O
+. _ O O
+
+Seja _ O O
+se _ O O
+začne _ O O
+o _ O O
+25. _ O I-TIME
+minuti _ O I-TIME
+čez _ O I-TIME
+11. _ O I-TIME
+uro _ O I-TIME
+. _ O O
+
+Stenographischer _ O O
+Bericht _ O O
+der _ O O
+ersten _ O O
+Sitzung _ O O
+des _ O O
+krainischen _ O I-ORG-U
+Landtages _ O I-ORG-U
+zu _ O O
+Laibach _ O I-LOC
+am _ O O
+9 _ O I-DATE
+. _ O I-DATE
+
+Dezember _ O I-DATE
+1886 _ O I-DATE
+. _ O O
+
+Anwesende _ O O
+Vorsitzender _ O O
+Landeshauptmann _ O O
+Gustav _ O I-PER
+Graf _ O I-PER
+Thurn _ O I-PER
+- _ O I-PER
+Valsassina _ O I-PER
+Vertreter _ O O
+der _ O O
+k. _ O O
+k. _ O O
+Regierung _ O O
+Landespräsident _ O O
+Andreas _ O B-PER
+Freiherr _ O I-PER
+v. _ O I-PER
+Winkler _ O I-PER
+Sämmtliche _ O O
+Mitglieder _ O O
+mit _ O O
+Ausnahme _ O O
+von _ O O
+Fürstbischof _ O O
+Dr. _ O O
+Jacob _ O B-PER
+Missia _ O I-PER
+und _ O O
+Dr. _ O O
+Heinrich _ O B-PER
+Dolenec _ O I-PER
+
+Tagesordnung _ O O
+1 _ O O
+. _ O O
+
+Eröffnung _ O O
+des _ O O
+Landtages _ O O
+. _ O O
+
+2 _ O O
+. _ O O
+
+Angelobung _ O O
+eines _ O O
+neu _ O O
+eingetretenen _ O O
+Landtagsabgeordneten _ O O
+. _ O O
+
+3 _ O O
+. _ O O
+
+Mittheilungen _ O O
+des _ O O
+Landtagspräsidiums _ O O
+. _ O O
+
+4 _ O O
+. _ O O
+
+Wahl _ O O
+zweier _ O O
+Ordner _ O O
+. _ O O
+
+5 _ O O
+. _ O O
+
+Wahl _ O O
+zweier _ O O
+Verificatoren _ O O
+. _ O O
+
+6 _ O O
+. _ O O
+
+Wahl _ O O
+eines _ O O
+Finanzausschusses _ O I-ORG-U
+von _ O O
+11 _ O O
+Mitgliedern _ O O
+. _ O O
+
+Antrag _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+. _ O O
+
+7 _ O O
+. _ O O
+
+Wahl _ O O
+eines _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusses _ O I-ORG-U
+von _ O O
+9 _ O O
+Mitgliedern _ O O
+. _ O O
+
+Antrag _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+. _ O O
+
+8 _ O O
+. _ O O
+
+Wahl _ O O
+eines _ O O
+Rechenschastsberichtsausschusses _ O B-ORG-U
+von _ O O
+7 _ O O
+Mitgliedern _ O O
+. _ O O
+
+Antrag _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+. _ O O
+
+9 _ O O
+. _ O O
+
+Beilage _ O O
+1 _ O O
+. _ O O
+
+Zwangsarbeitshausfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+10 _ O O
+. _ O O
+
+Beilage _ O O
+2 _ O O
+. _ O O
+
+Kranken _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Irren _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Gebär _ O I-MISC
+- _ O I-MISC
+und _ O I-MISC
+Findelhausfonds _ O I-MISC
+- _ O O
+Voranschläge _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+11 _ O O
+. _ O O
+
+Beilage _ O O
+3 _ O O
+. _ O O
+
+Staudner _ O I-ORG
+Wein _ O I-ORG
+- _ O I-ORG
+und _ O I-ORG
+Obstbauschul _ O I-ORG
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+12 _ O O
+. _ O O
+
+Beilage _ O O
+4 _ O O
+. _ O O
+
+Lehrerpensionsfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+13 _ O O
+. _ O O
+
+Beilage _ O O
+5 _ O O
+. _ O O
+
+Normalschulfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+14 _ O O
+. _ O O
+
+Beilage _ O O
+6 _ O O
+. _ O O
+
+Stiftungsfonde _ O I-MISC
+- _ O O
+Voranschläge _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+15 _ O O
+. _ O O
+
+Beilage _ O O
+7 _ O O
+. _ O O
+
+Stiftungsfonde _ O I-MISC
+- _ O O
+Rechnungsabschlüsse _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+16 _ O O
+. _ O O
+
+Beilage _ O O
+8 _ O O
+. _ O O
+
+Siechenfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+und _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O B-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+17 _ O O
+. _ O O
+
+Beilage _ O O
+9 _ O O
+. _ O O
+
+Kranken _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Irren _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Gebär _ O I-MISC
+- _ O I-MISC
+und _ O I-MISC
+Findelhausfonds _ O I-MISC
+- _ O O
+Rechnungsabschlüsse _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+18 _ O O
+. _ O O
+
+Beilage _ O O
+10 _ O O
+. _ O O
+
+Slaper _ O I-ORG
+Wein _ O I-ORG
+- _ O I-ORG
+und _ O I-ORG
+Obstbauschul _ O I-ORG
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+19 _ O O
+. _ O O
+
+Beilage _ O O
+11 _ O O
+. _ O O
+
+Grundentlastungsfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+20 _ O O
+. _ O O
+
+Beilage _ O O
+12 _ O O
+. _ O O
+
+Zwangsarbeitshausfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+21 _ O O
+. _ O O
+
+Beilage _ O O
+13 _ O O
+. _ O O
+
+Grundentlastungsfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+22 _ O O
+. _ O O
+
+Beilage _ O O
+14 _ O O
+. _ O O
+
+Landesculturfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+und _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O B-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+23 _ O O
+. _ O O
+
+Beilage _ O O
+15 _ O O
+. _ O O
+
+Theaterfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+24 _ O O
+. _ O O
+
+Beilage _ O O
+16 _ O O
+. _ O O
+
+Theaterfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+25 _ O O
+. _ O O
+
+Beilage _ O O
+17 _ O O
+. _ O O
+
+Normalschulfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+26 _ O O
+. _ O O
+
+Beilage _ O O
+18 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+betreffend _ O O
+die _ O O
+Subventionen _ O O
+für _ O O
+Schulhausbauten _ O O
+. _ O O
+
+27 _ O O
+. _ O O
+
+Beilage _ O O
+19 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+betreffend _ O O
+die _ O O
+Jahresremuneration _ O O
+für _ O O
+den _ O O
+Thierarzt _ O O
+in _ O O
+Radmannsdorf _ O I-LOC
+. _ O O
+
+28 _ O O
+. _ O O
+
+Beilage _ O O
+20 _ O O
+. _ O O
+
+Museumfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+Pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+29 _ O O
+. _ O O
+
+Beilage _ O O
+21 _ O O
+. _ O O
+
+Museumsfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+30 _ O O
+. _ O O
+
+Beilage _ O O
+22 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+über _ O O
+die _ O O
+Verwendung _ O O
+der _ O O
+außerordentlichen _ O O
+Dotation _ O O
+von _ O O
+18.000 _ O O
+fl _ O O
+. _ O O
+für _ O O
+Sanirung _ O O
+der _ O O
+im _ O O
+Herbste _ O O
+1885 _ O I-DATE
+im _ O O
+politischen _ O I-ORG
+Bezirke _ O I-ORG
+Radmannsdorf _ O I-ORG
+durch _ O O
+elementare _ O O
+Gewalten _ O O
+am _ O O
+öffentlichen _ O O
+Gute _ O O
+verursachten _ O O
+Schäden _ O O
+und _ O O
+über _ O O
+die _ O O
+zur _ O O
+Sicherung _ O O
+der _ O O
+in _ O O
+diesem _ O O
+Bezirke _ O O
+durch _ O O
+Wassergefahr _ O O
+bedrohten _ O O
+Ortschaften _ O O
+getroffenen _ O O
+Maßregeln _ O O
+. _ O O
+
+31 _ O O
+. _ O O
+
+Beilage _ O O
+23 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+Regie _ O O
+- _ O O
+und _ O O
+Speisenvergütung _ O O
+im _ O O
+Krankenhause _ O O
+zu _ O O
+Laibach _ O I-LOC
+. _ O O
+
+32 _ O O
+. _ O O
+
+Beilage _ O O
+24 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+Verpflegsgebühren _ O O
+für _ O O
+zahlungsunfähige _ O O
+Kranke _ O O
+in _ O O
+nicht _ O O
+öffentlichen _ O O
+Krankenhäusern _ O O
+und _ O O
+im _ O O
+Königreiche _ O I-LOC
+Serbien _ O I-LOC
+. _ O O
+
+33 _ O O
+. _ O O
+
+Beilage _ O O
+25 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+definitive _ O O
+Regelung _ O O
+des _ O O
+Minimums _ O O
+des _ O O
+direkten _ O O
+Steuerzuschlages _ O O
+für _ O O
+den _ O O
+Grundentlastungsfond _ O I-MISC
+. _ O O
+
+34 _ O O
+. _ O O
+
+Beilage _ O O
+26 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+Errichtung _ O O
+von _ O O
+Forstsaatschulen _ O O
+. _ O O
+
+35 _ O O
+. _ O O
+
+Beilage _ O O
+27 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+betreffend _ O O
+die _ O O
+provisorische _ O O
+Forterhebung _ O O
+der _ O O
+Landesumlagen _ O O
+, _ O O
+sowie _ O O
+der _ O O
+Landesauflage _ O O
+von _ O O
+verbrauchten _ O O
+gebrannten _ O O
+geistigen _ O O
+Flüssigkeiten _ O O
+im _ O O
+Jahre _ O O
+1887 _ O I-DATE
+. _ O O
+
+Inhalt _ O O
+: _ O O
+Siehe _ O O
+Tagesordnung _ O O
+. _ O O
+
+Beginn _ O O
+der _ O O
+Sitzung _ O O
+11 _ O I-TIME
+Uhr _ O I-TIME
+25 _ O I-TIME
+Minuten _ O I-TIME
+. _ O O
+
+1. _ O O
+
+Otvorenje _ O O
+deželnega _ O O
+zbora _ O O
+. _ O O
+
+1. _ O O
+
+Eröffnung _ O O
+des _ O O
+Landtages _ O O
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+( _ O O
+pozvoni _ O O
+— _ O O
+gibt _ O O
+das _ O O
+Glockenzeichen _ O O
+. _ O O
+) _ O O
+
+Slavni _ O O
+zbor _ O O
+! _ O O
+
+( _ O O
+Poslanci _ O O
+vstanejo _ O O
+— _ O O
+die _ O O
+Abgeordneten _ O O
+erheben _ O O
+sich _ O O
+von _ O O
+ihren _ O O
+Sitzen _ O O
+. _ O O
+) _ O O
+
+Vsled _ O O
+Najvišjega _ O O
+sklepa _ O O
+z _ O O
+dne _ O O
+28. _ O I-DATE
+novembra _ O I-DATE
+usojam _ O O
+se _ O O
+deželni _ O I-ORG-U
+zbor _ O I-ORG-U
+vojvodine _ O I-ORG-U
+Kranjske _ O I-ORG-U
+otvoriti _ O O
+. _ O O
+
+O _ O O
+imenitnejših _ O O
+zadevah _ O O
+, _ O O
+katere _ O O
+so _ O O
+se _ O O
+tekoče _ O O
+leto _ O O
+v _ O O
+naši _ O O
+deželi _ O O
+pripetile _ O O
+, _ O O
+omenjam _ O O
+, _ O O
+da _ O O
+se _ O O
+je _ O O
+vino _ O I-ORG
+- _ O I-ORG
+in _ O I-ORG
+sadjerejska _ O I-ORG
+šola _ O I-ORG
+iz _ O I-ORG
+Slapa _ O I-ORG
+na _ O O
+Notranjskem _ O I-LOC
+v _ O O
+od _ O O
+dežele _ O O
+nakupljeni _ O O
+grad _ O B-LOC
+Germ _ O I-LOC
+pri _ O O
+Rudolfovem _ O B-LOC
+na _ O O
+Dolenjskem _ O B-LOC
+preselila _ O O
+in _ O O
+meseca _ O O
+novembra _ O O
+otvorila _ O O
+. _ O O
+
+Ministerstvo _ O I-ORG-U
+za _ O I-ORG-U
+poljedelstvo _ O I-ORG-U
+je _ O O
+za _ O O
+ustanovo _ O O
+te _ O O
+deželne _ O O
+šole _ O O
+20.000 _ O O
+gld _ O O
+. _ O O
+podpore _ O O
+podeliti _ O O
+blagovolilo _ O O
+. _ O O
+
+( _ O O
+„ _ O O
+Dobro _ O O
+“ _ O O
+- _ O O
+klici _ O O
+— _ O O
+„ _ O O
+Bravo _ O O
+“ _ O O
+- _ O O
+Rufe _ O O
+. _ O O
+) _ O O
+
+Želeti _ O O
+je _ O O
+, _ O O
+da _ O O
+bi _ O O
+domači _ O O
+mladenči _ O O
+v _ O O
+obilnem _ O O
+številu _ O O
+to _ O O
+šolo _ O O
+obiskovali _ O O
+in _ O O
+da _ O O
+bi _ O O
+podučevanje _ O O
+bilo _ O O
+plodonosno _ O O
+. _ O O
+
+Trinajst _ O O
+let _ O O
+obstala _ O O
+je _ O O
+šola _ O O
+na _ O O
+Slapu _ O I-LOC
+, _ O O
+zahvaljujem _ O O
+se _ O O
+v _ O O
+imenu _ O O
+Kranjske _ O B-LOC
+dežele _ O I-LOC
+grofu _ O O
+Lanthieri-ju _ O I-PER
+, _ O O
+kteri _ O O
+je _ O O
+veledušno _ O O
+brezplačno _ O O
+prepustil _ O O
+deželi _ O O
+svoj _ O O
+grad _ O O
+in _ O O
+pripadajoče _ O O
+zemljišče _ O O
+za _ O O
+ta _ O O
+deželni _ O O
+zavod _ O O
+. _ O O
+
+Dalje _ O O
+poročam _ O O
+, _ O O
+da _ O O
+je _ O O
+Kopačniška _ O I-LOC
+cesta _ O I-LOC
+dodelana _ O O
+, _ O O
+cesta _ O O
+, _ O O
+katera _ O O
+Poljansko _ O B-LOC
+dolino _ O I-LOC
+naše _ O O
+dežele _ O O
+s _ O O
+Primorsko _ O B-LOC
+deželo _ O I-LOC
+zvezuje _ O O
+. _ O O
+
+Ta _ O O
+cesta _ O O
+je _ O O
+posebno _ O O
+v _ O O
+strategičnem _ O O
+oziru _ O O
+važna _ O O
+, _ O O
+bo _ O O
+pa _ O O
+tudi _ O O
+javnemu _ O O
+občilu _ O O
+koristila _ O O
+. _ O O
+
+Zavolj _ O O
+zgradbe _ O O
+dolenjske _ O O
+lokalne _ O O
+železnice _ O O
+zaukazalo _ O O
+je _ O O
+trgovinsko _ O I-ORG-U
+ministerstvo _ O I-ORG-U
+pregledovanje _ O O
+projektiranih _ O O
+črt _ O O
+. _ O O
+
+V _ O O
+ta _ O O
+namen _ O O
+sklicana _ O O
+komisija _ O O
+se _ O O
+je _ O O
+vršila _ O O
+meseca _ O O
+novembra _ O I-DATE
+. _ O O
+
+Tudi _ O O
+sem _ O O
+v _ O O
+neprijetnem _ O O
+položaji _ O O
+, _ O O
+omenjati _ O O
+, _ O O
+da _ O O
+je _ O O
+tu _ O O
+in _ O O
+tam _ O O
+v _ O O
+naši _ O O
+deželi _ O O
+kolera _ O O
+nastala _ O O
+, _ O O
+posebno _ O O
+v _ O O
+Loškem _ O I-LOC
+potoku _ O I-LOC
+, _ O O
+kakor _ O O
+se _ O O
+meni _ O O
+, _ O O
+zanesena _ O O
+iz _ O O
+sosedne _ O O
+dežele _ O O
+. _ O O
+
+Strogemu _ O O
+in _ O O
+umestnemu _ O O
+postopanju _ O O
+merodajnih _ O O
+krogov _ O O
+in _ O O
+previdnosti _ O O
+prebivalstva _ O O
+se _ O O
+je _ O O
+posrečilo _ O O
+, _ O O
+epidemijo _ O O
+kmalo _ O O
+zadušiti _ O O
+. _ O O
+
+Treba _ O O
+bo _ O O
+pa _ O O
+še _ O O
+naprej _ O O
+vseskozi _ O O
+ojstre _ O O
+pozornosti _ O O
+. _ O O
+
+Weiters _ O O
+erlaube _ O O
+ich _ O O
+mir _ O O
+dem _ O O
+hohen _ O O
+Hause _ O O
+mitzutheilen _ O O
+, _ O O
+dass _ O O
+sich _ O O
+im _ O O
+Herbste _ O O
+die _ O O
+Karstaufforstungs _ O O
+Commission _ O O
+constituirte _ O O
+und _ O O
+ihre _ O O
+Operationen _ O O
+im _ O O
+aufzuforstenden _ O O
+Terrain _ O O
+im _ O O
+nächsten _ O O
+Frühjahre _ O O
+aufnehmen _ O O
+werde _ O O
+. _ O O
+
+Der _ O O
+Landesausschuß _ O I-ORG-U
+hat _ O O
+heuer _ O O
+auch _ O O
+den _ O O
+Versuch _ O O
+angestellt _ O O
+, _ O O
+die _ O O
+in _ O O
+der _ O O
+Zwangsarbeits _ O O
+- _ O O
+Anstalt _ O O
+detenirten _ O O
+Individuen _ O O
+außer _ O O
+der _ O O
+Anstalt _ O O
+für _ O O
+Feld _ O O
+- _ O O
+und _ O O
+Straßenarbeiten _ O O
+zu _ O O
+verwenden _ O O
+. _ O O
+
+Es _ O O
+wurden _ O O
+zu _ O O
+diesem _ O O
+Zwecke _ O O
+drei _ O O
+Abtheilungen _ O O
+Zwänglinge _ O O
+und _ O O
+zwar _ O O
+in _ O O
+Brunndorf _ O I-LOC
+, _ O O
+Thurn _ O B-LOC
+am _ O I-LOC
+Hart _ O I-LOC
+und _ O O
+in _ O O
+Nußdorf _ O B-LOC
+detachirt _ O O
+. _ O O
+
+Diese _ O O
+Art _ O O
+der _ O O
+Beschäftigung _ O O
+hat _ O O
+sich _ O O
+als _ O O
+recht _ O O
+zweckmäßig _ O O
+bewährt _ O O
+und _ O O
+dürfte _ O O
+nach _ O O
+den _ O O
+Antecedenzien _ O O
+zu _ O O
+schließen _ O O
+, _ O O
+auch _ O O
+in _ O O
+anderen _ O O
+Provinzen _ O O
+Nachahmung _ O O
+finden _ O O
+. _ O O
+
+Und _ O O
+nun _ O O
+lade _ O O
+ich _ O O
+die _ O O
+Herren _ O O
+Abgeordneten _ O O
+ein _ O O
+, _ O O
+sich _ O O
+der _ O O
+parlamentarischen _ O O
+Thätigkeit _ O O
+mit _ O O
+patriotischer _ O O
+Hingebung _ O O
+zu _ O O
+widmen _ O O
+. _ O O
+
+Nachdem _ O O
+die _ O O
+Session _ O O
+von _ O O
+nicht _ O O
+langer _ O O
+Dauer _ O O
+sein _ O O
+und _ O O
+zu _ O O
+Weihnachten _ O O
+eine _ O O
+Unterbrechung _ O O
+der _ O O
+Sitzungen _ O O
+eintreten _ O O
+dürfte _ O O
+, _ O O
+bitte _ O O
+ich _ O O
+mit _ O O
+gesteigerter _ O O
+Beflissenheit _ O O
+eingreifen _ O O
+zu _ O O
+wollen _ O O
+, _ O O
+damit _ O O
+das _ O O
+vorhandene _ O O
+Materiale _ O O
+wird _ O O
+bewältiget _ O O
+werden _ O O
+können _ O O
+. _ O O
+
+Vor _ O O
+Allem _ O O
+geben _ O O
+wir _ O O
+unseren _ O O
+loyalen _ O O
+dynastischen _ O O
+Gesinnung _ O O
+Ausdruck _ O O
+, _ O O
+indem _ O O
+wir _ O O
+ausrufen _ O O
+: _ O O
+„ _ O O
+Gott _ O O
+erhalte _ O O
+und _ O O
+beschütze _ O O
+unseren _ O O
+geliebten _ O O
+Landesfürsten _ O O
+, _ O O
+unsern _ O O
+Herrn _ O O
+und _ O O
+Kaiser _ O O
+! _ O O
+
+— _ O O
+
+Bog _ O O
+obvaruj _ O O
+in _ O O
+ohrani _ O O
+našega _ O O
+presvitlega _ O O
+cesarja _ O O
+Franc _ O O
+Jožefa _ O O
+“ _ O O
+— _ O O
+„ _ O O
+Slava _ O O
+! _ O O
+
+— _ O O
+
+Hoch _ O O
+! _ O O
+" _ O O
+
+( _ O O
+Trikratni _ O O
+burni _ O O
+„ _ O O
+Slava _ O O
+“ _ O O
+in _ O O
+„ _ O O
+Hoch _ O O
+“ _ O O
+- _ O O
+klici _ O O
+— _ O O
+( _ O O
+Dreimalige _ O O
+stürmische _ O O
+„ _ O O
+Slava _ O O
+“ _ O O
+und _ O O
+„ _ O O
+Hoch _ O O
+“ _ O O
+- _ O O
+Rufe _ O O
+. _ O O
+) _ O O
+
+Deželni _ O O
+predsednik _ O O
+baron _ O O
+Winkler _ O I-PER
+: _ O O
+
+Visoki _ O O
+deželni _ O O
+zbor _ O O
+! _ O O
+
+Naj _ O O
+mi _ O O
+bode _ O O
+kot _ O O
+zastopniku _ O O
+cesarske _ O O
+vlade _ O O
+dovoljeno _ O O
+, _ O O
+od _ O O
+svoje _ O O
+strani _ O O
+srčno _ O O
+pozdravljati _ O O
+častite _ O O
+gospode _ O O
+poslance _ O O
+obeh _ O O
+strani _ O O
+. _ O O
+
+Želim _ O O
+jim _ O O
+, _ O O
+da _ O O
+bi _ O O
+bilo _ O O
+njihovo _ O O
+zložno _ O O
+delovanje _ O O
+vspešno _ O O
+in _ O O
+zdatno _ O O
+, _ O O
+kranjski _ O O
+deželi _ O O
+v _ O O
+korist _ O O
+. _ O O
+
+Jaz _ O O
+od _ O O
+svoje _ O O
+strani _ O O
+bodem _ O O
+radovoljno _ O O
+podpiral _ O O
+visoki _ O O
+deželni _ O O
+zbor _ O O
+v _ O O
+njegovem _ O O
+delovanji _ O O
+. _ O O
+
+Es _ O O
+obliegt _ O O
+mir _ O O
+, _ O O
+meine _ O O
+Herren _ O O
+, _ O O
+dem _ O O
+hohen _ O O
+Landtage _ O O
+mitzutheilen _ O O
+, _ O O
+dass _ O O
+mir _ O O
+zufolge _ O O
+Allerhöchster _ O O
+Entschließung _ O O
+vom _ O O
+8 _ O I-DATE
+. _ O I-DATE
+
+Oktober _ O I-DATE
+1886 _ O I-DATE
+eine _ O O
+Regierungsvorlage _ O O
+zugekommen _ O O
+ist _ O O
+, _ O O
+ein _ O O
+Gesetzentwurf _ O O
+, _ O O
+wodurch _ O O
+einige _ O O
+gesetzliche _ O O
+Bestimmungen _ O O
+, _ O O
+betreffend _ O O
+die _ O O
+Ausübung _ O O
+des _ O O
+Jagdrechtes _ O O
+, _ O O
+abgeändert _ O O
+werden _ O O
+. _ O O
+
+Ich _ O O
+beehre _ O O
+mich _ O O
+diesen _ O O
+Gesetzentwurf _ O O
+sowohl _ O O
+mit _ O O
+dem _ O O
+deutschen _ O O
+als _ O O
+dem _ O O
+slovenischen _ O O
+Texte _ O O
+, _ O O
+sammt _ O O
+den _ O O
+dazu _ O O
+gehörigen _ O O
+Erläuterungen _ O O
+dem _ O O
+hochverehrten _ O O
+Herrn _ O O
+Landeshauptmanne _ O O
+mit _ O O
+dem _ O O
+Ersuchen _ O O
+zu _ O O
+übergeben _ O O
+, _ O O
+denselben _ O O
+der _ O O
+verfassungsmäßigen _ O O
+Behandlung _ O O
+zuführen _ O O
+zu _ O O
+wollen _ O O
+. _ O O
+
+Bekanntlich _ O O
+ist _ O O
+in _ O O
+der _ O O
+verflossenen _ O O
+Session _ O O
+auch _ O O
+eine _ O O
+Regierungsvorlage _ O O
+, _ O O
+betreffend _ O O
+die _ O O
+Theilung _ O O
+gemeinschaftlicher _ O O
+Grundstücke _ O O
+und _ O O
+die _ O O
+Regulierung _ O O
+der _ O O
+hierauf _ O O
+bezüglichen _ O O
+gemeinschaftlichen _ O O
+Benützungs _ O O
+- _ O O
+und _ O O
+Verwaltungsrechte _ O O
+, _ O O
+und _ O O
+eine _ O O
+zweite _ O O
+Regierungsvorlage _ O O
+, _ O O
+betreffend _ O O
+die _ O O
+Zusammensetzung _ O O
+der _ O O
+Landescommission _ O O
+für _ O O
+die _ O O
+Angelegenheiten _ O O
+der _ O O
+Bereinigung _ O O
+des _ O O
+Waldlandes _ O O
+von _ O O
+fremden _ O O
+Enclaven _ O O
+und _ O O
+der _ O O
+Arrondirnng _ O O
+der _ O O
+Waldgrenzen _ O O
+im _ O O
+hohen _ O O
+Landtage _ O O
+eingebracht _ O O
+worden _ O O
+. _ O O
+
+Diese _ O O
+beiden _ O O
+Regierungs _ O O
+- _ O O
+Vorlagen _ O O
+wurden _ O O
+meritorisch _ O O
+nicht _ O O
+erledigt _ O O
+, _ O O
+weil _ O O
+sie _ O O
+wegen _ O O
+ihres _ O O
+größeren _ O O
+Umfanges _ O O
+und _ O O
+wegen _ O O
+Kürze _ O O
+der _ O O
+Zeit _ O O
+in _ O O
+slovenischer _ O O
+Sprache _ O O
+nicht _ O O
+vorgelegt _ O O
+werden _ O O
+konnten _ O O
+. _ O O
+
+Ich _ O O
+ließ _ O O
+inzwischen _ O O
+den _ O O
+slovenischen _ O O
+Text _ O O
+entwerfen _ O O
+und _ O O
+stelle _ O O
+nun _ O O
+über _ O O
+Auftrag _ O O
+Seiner _ O O
+Excellenz _ O O
+des _ O O
+Herrn _ O O
+Ackerbauministers _ O O
+vom _ O O
+4. _ O B-DATE
+l. _ O I-DATE
+M. _ O I-DATE
+die _ O O
+beiden _ O O
+Gesetzentwürfe _ O O
+in _ O O
+beiden _ O O
+Landessprachen _ O O
+dem _ O O
+Herrn _ O O
+Landeshauptmanne _ O O
+zur _ O O
+Verfügung _ O O
+mit _ O O
+der _ O O
+Bitte _ O O
+, _ O O
+dieselben _ O O
+der _ O O
+verfassnugsmäßigen _ O O
+Behandlung _ O O
+unterziehen _ O O
+zu _ O O
+wollen _ O O
+. _ O O
+
+2. _ O O
+
+Obljuba _ O O
+novo _ O O
+izvoljenega _ O O
+deželnega _ O O
+poslanca _ O O
+. _ O O
+
+2. _ O O
+
+Angelobung _ O O
+eines _ O O
+neu _ O O
+eingetretenen _ O O
+Landtagsabgeordneten _ O O
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Vsojam _ O O
+se _ O O
+, _ O O
+predstaviti _ O O
+novo _ O O
+izvoljenega _ O O
+deželnega _ O O
+poslanca _ O O
+gospoda _ O O
+Hinko _ O I-PER
+Kavčiča _ O I-PER
+, _ O O
+kateri _ O O
+je _ O O
+izvoljen _ O O
+iz _ O O
+volilnega _ O I-ORG
+okraja _ O I-ORG
+Postojna _ O I-ORG
+, _ O I-ORG
+Logatec _ O I-ORG
+, _ O I-ORG
+Senožeče _ O I-ORG
+, _ O I-ORG
+Lože _ O I-ORG
+, _ O I-ORG
+Bistrica _ O I-ORG
+. _ O O
+
+Gospod _ O O
+poslanec _ O O
+bodete _ O O
+v _ O O
+smislu _ O O
+deželnega _ O O
+reda _ O O
+obljubili _ O O
+, _ O O
+da _ O O
+bodete _ O O
+zvesti _ O O
+in _ O O
+pokorni _ O O
+cesarju _ O O
+, _ O O
+da _ O O
+se _ O O
+bodete _ O O
+držali _ O O
+postav _ O O
+in _ O O
+vestno _ O O
+izpolnjevali _ O O
+svoje _ O O
+dolžnosti _ O O
+. _ O O
+
+Poslanec _ O O
+Kavčič _ O I-PER
+: _ O O
+Obljubim _ O O
+! _ O O
+
+3. _ O O
+
+Naznanila _ O O
+deželno _ O O
+- _ O O
+zborskega _ O O
+predsedstva _ O O
+. _ O O
+
+3. _ O O
+
+Mittheilungen _ O O
+des _ O O
+Landtagspräsidinms _ O O
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Naznanjam _ O O
+visokemu _ O O
+zboru _ O O
+, _ O O
+da _ O O
+je _ O O
+Vsegamogočnemu _ O O
+dopadlo _ O O
+, _ O O
+našega _ O O
+priljubljenega _ O O
+tovariša _ O O
+Adolfa _ O B-PER
+Obreza _ O I-PER
+v _ O O
+boljše _ O O
+življenje _ O O
+poklicati _ O O
+. _ O O
+
+On _ O O
+počiva _ O O
+od _ O O
+28. _ O I-DATE
+septembra _ O I-DATE
+t. _ O I-DATE
+l. _ O I-DATE
+v _ O O
+hladni _ O O
+zemlji _ O O
+. _ O O
+
+Ranjki _ O O
+je _ O O
+neutrudljivo _ O O
+in _ O O
+veliko _ O O
+let _ O O
+deloval _ O O
+v _ O O
+svoji _ O O
+lastnosti _ O O
+kot _ O O
+župan _ O O
+, _ O O
+kot _ O O
+državni _ O O
+in _ O O
+deželni _ O O
+poslanec _ O O
+. _ O O
+
+O _ O O
+različnih _ O O
+prilikah _ O O
+se _ O O
+je _ O O
+prizadeval _ O O
+, _ O O
+pomagati _ O O
+in _ O O
+koristiti _ O O
+svojemu _ O O
+okraju _ O O
+, _ O O
+svojim _ O O
+rojakom _ O O
+in _ O O
+deželi _ O O
+. _ O O
+
+Vedno _ O O
+bomo _ O O
+prerano _ O O
+umrlega _ O O
+obdržali _ O O
+v _ O O
+dragem _ O O
+spominu _ O O
+. _ O O
+
+V _ O O
+znamenje _ O O
+sočutja _ O O
+se _ O O
+vzdignemo _ O O
+. _ O O
+
+( _ O O
+Zgodi _ O O
+se _ O O
+— _ O O
+Geschieht _ O O
+. _ O O
+) _ O O
+
+Premilostljivi _ O O
+gospod _ O O
+knezoškof _ O O
+so _ O O
+naznanili _ O O
+, _ O O
+da _ O O
+k _ O O
+današnji _ O O
+seji _ O O
+ne _ O O
+morejo _ O O
+priti _ O O
+. _ O O
+
+Die _ O O
+Mitglieder _ O O
+des _ O O
+letzten _ O O
+Vorstandes _ O O
+der _ O O
+ehemaligen _ O O
+Laibacher _ O I-ORG
+Filiale _ O I-ORG
+des _ O I-ORG
+österreichischen _ O I-ORG
+Kunstvereines _ O I-ORG
+haben _ O O
+ein _ O O
+größeres _ O O
+werthvolles _ O O
+Ölgemälde _ O O
+des _ O O
+verstorbenen _ O O
+Malers _ O O
+Canon _ O I-PER
+„ _ O O
+die _ O O
+moderne _ O O
+Eva _ O B-PER
+" _ O O
+dem _ O O
+Rudolfinum _ O I-MISC
+als _ O O
+Geschenk _ O O
+gewidmet _ O O
+. _ O O
+
+Indem _ O O
+ich _ O O
+diesen _ O O
+generösen _ O O
+Akt _ O O
+zur _ O O
+Kenntnis _ O O
+des _ O O
+hohen _ O O
+Hauses _ O O
+bringe _ O O
+, _ O O
+erlaube _ O O
+ich _ O O
+mir _ O O
+den _ O O
+Dank _ O O
+der _ O O
+Landesvertretung _ O O
+hiefür _ O O
+auszusprechen _ O O
+. _ O O
+
+( _ O O
+„ _ O O
+Dobro _ O O
+“ _ O O
+- _ O O
+klici _ O O
+— _ O O
+„ _ O O
+Bravo _ O O
+" _ O O
+- _ O O
+Rufe _ O O
+. _ O O
+) _ O O
+
+Naznanjam _ O O
+sledeče _ O O
+peticije _ O O
+, _ O O
+katere _ O O
+so _ O O
+nam _ O O
+došle _ O O
+in _ O O
+katere _ O O
+bom _ O O
+z _ O O
+dovoljenjem _ O O
+visokega _ O O
+zbora _ O O
+izročil _ O O
+dotičnim _ O O
+odsekom _ O O
+: _ O O
+
+Unterstützungsverein _ O I-ORG
+für _ O I-ORG
+dürftige _ O I-ORG
+und _ O I-ORG
+würdige _ O I-ORG
+Hörer _ O I-ORG
+an _ O I-ORG
+der _ O I-ORG
+k. _ O I-ORG
+k. _ O I-ORG
+Hochschule _ O I-ORG
+für _ O I-ORG
+Bodenkultur _ O I-ORG
+in _ O I-ORG
+Wien _ O I-ORG
+bittet _ O O
+um _ O O
+Unterstützung _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Vereins _ O I-ORG
+- _ O I-ORG
+Ausschuß _ O I-ORG
+der _ O I-ORG
+Thierärzte _ O I-ORG
+Österreichs _ O I-ORG
+in _ O I-ORG
+Wien _ O I-ORG
+bittet _ O O
+um _ O O
+Unterstützung _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Progar _ O I-PER
+Alois _ O I-PER
+, _ O O
+Bildhauer _ O O
+in _ O O
+Silberegg _ O I-LOC
+, _ O O
+bittet _ O O
+um _ O O
+einen _ O O
+Stiftungsplatz _ O O
+an _ O O
+der _ O O
+k. _ O I-ORG
+k. _ O I-ORG
+Akademie _ O I-ORG
+der _ O I-ORG
+bildenden _ O I-ORG
+Künste _ O I-ORG
+in _ O I-ORG
+Wien _ O I-ORG
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Ažbe _ O I-PER
+Anton _ O I-PER
+, _ O O
+učenec _ O O
+na _ O O
+kr. _ O I-ORG
+bavarski _ O I-ORG
+akademiji _ O I-ORG
+umetnosti _ O I-ORG
+v _ O I-ORG
+Monakovem _ O I-ORG
+, _ O O
+prosi _ O O
+podpore _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Vesel _ O I-PER
+Ferdinand _ O I-PER
+, _ O O
+dijak _ O O
+na _ O O
+akademiji _ O I-ORG
+umetnosti _ O I-ORG
+v _ O I-ORG
+Monakovem _ O I-ORG
+, _ O O
+prosi _ O O
+podpore _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Kralj _ O I-PER
+Jakob _ O I-PER
+, _ O O
+učenec _ O O
+c. _ O I-ORG
+k. _ O I-ORG
+državne _ O I-ORG
+obrtne _ O I-ORG
+šole _ O I-ORG
+na _ O I-ORG
+Dunaji _ O I-ORG
+, _ O O
+prosi _ O O
+podpore _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Županstvo _ O I-ORG
+v _ O I-ORG
+Kostelju _ O I-ORG
+prosi _ O O
+, _ O O
+da _ O O
+bi _ O O
+se _ O O
+okrajna _ O O
+cesta _ O O
+Kočevje _ O I-LOC
+- _ O O
+Brod _ O B-LOC
+uvrstila _ O O
+med _ O O
+deželne _ O O
+ceste _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+gospodarskemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusse _ O I-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Odbor _ O I-ORG
+„ _ O I-ORG
+Glasbene _ O I-ORG
+Matice _ O I-ORG
+“ _ O I-ORG
+v _ O O
+Ljubljani _ O I-LOC
+prosi _ O O
+podpore _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Gemeindevorstehung _ O I-ORG
+in _ O I-ORG
+Ratschach _ O I-ORG
+bittet _ O O
+um _ O O
+Subvention _ O O
+zur _ O O
+Instandsetzung _ O O
+des _ O O
+Ratschach _ O I-LOC
+- _ O O
+Sava _ O B-LOC
+Treppelweges _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+) _ O O
+
+Cestni _ O I-ORG
+odbor _ O I-ORG
+Radoljški _ O I-ORG
+prosi _ O O
+za _ O O
+razdelitev _ O O
+cestnega _ O I-ORG-U
+odbora _ O I-ORG-U
+v _ O O
+dva _ O O
+delokroga _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+gospodarskemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusse _ O I-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Cestni _ O I-ORG
+odbor _ O I-ORG
+Radoljški _ O I-ORG
+prosi _ O O
+, _ O O
+da _ O O
+bi _ O O
+se _ O O
+sklenila _ O O
+postava _ O O
+, _ O O
+po _ O O
+kateri _ O O
+bi _ O O
+se _ O O
+smela _ O O
+poberati _ O O
+na _ O O
+Blejskem _ O I-LOC
+mostu _ O I-LOC
+mostnina _ O O
+oziroma _ O O
+cestnina _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+gospodarskemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusse _ O I-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Ana _ O I-PER
+Adamič _ O I-PER
+, _ O O
+učiteljska _ O O
+sirota _ O O
+na _ O O
+Vrhniki _ O I-LOC
+, _ O O
+prosi _ O O
+podaljšanja _ O O
+miloščine _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Bezirksschulrath _ O I-ORG
+in _ O I-ORG
+Gottschee _ O I-ORG
+legt _ O O
+vor _ O O
+das _ O O
+Gesuch _ O O
+der _ O O
+Juliana _ O I-PER
+Dürfeld _ O I-PER
+, _ O O
+Lehrerswitwe _ O O
+in _ O O
+Gottschee _ O I-LOC
+, _ O O
+um _ O O
+Erhöhung _ O O
+ihrer _ O O
+Pension _ O O
+auf _ O O
+jährliche _ O O
+120 _ O O
+fl _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Gospod _ O O
+Detela _ O I-PER
+izroča _ O O
+sledeči _ O O
+prošnji _ O O
+: _ O O
+
+Občinski _ O I-ORG
+zastop _ O I-ORG
+na _ O I-ORG
+Trati _ O I-ORG
+prosi _ O O
+za _ O O
+odpisanje _ O O
+dolga _ O O
+in _ O O
+za _ O O
+podporo _ O O
+. _ O O
+
+( _ O O
+Izroča _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Vas _ O O
+Šmarata _ O I-LOC
+v _ O O
+občini _ O I-ORG
+Staritrg _ O I-ORG
+prosi _ O O
+podpore _ O O
+za _ O O
+dokončanje _ O O
+mosta _ O O
+. _ O O
+
+( _ O O
+Izroča _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Ich _ O O
+überreiche _ O O
+die _ O O
+Petition _ O O
+des _ O O
+Bajc _ O I-PER
+Franz _ O I-PER
+, _ O O
+provisionirten _ O O
+Zwangsarbeitshausaufsehers _ O O
+, _ O O
+um _ O O
+den _ O O
+Fortbezug _ O O
+beziehungsweise _ O O
+Erhöhung _ O O
+seiner _ O O
+Gnadengabe _ O O
+jährl _ O O
+. _ O O
+
+60 _ O O
+fl _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+) _ O O
+; _ O O
+
+und _ O O
+die _ O O
+Petition _ O O
+des _ O O
+Kronprinz _ O I-ORG
+- _ O I-ORG
+Rudolf _ O I-ORG
+Hospitales _ O I-ORG
+der _ O I-ORG
+barmh _ O I-ORG
+. _ O I-ORG
+
+Brüder _ O I-ORG
+in _ O I-ORG
+St. _ O I-ORG
+Veit _ O I-ORG
+a. _ O I-ORG
+d. _ O I-ORG
+Glan _ O I-ORG
+um _ O O
+eine _ O O
+Subvention _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Gospod _ O O
+Pfeifer _ O I-PER
+izroča _ O O
+sledeče _ O O
+peticije _ O O
+: _ O O
+
+Učitelji _ O O
+Krškega _ O I-ORG
+okraja _ O I-ORG
+prosijo _ O O
+za _ O O
+zboljšanje _ O O
+njihovega _ O O
+gmotnega _ O O
+stanja _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Občine _ O I-ORG
+Sv. _ O I-ORG
+Križ _ O I-ORG
+, _ O O
+Cerklje _ O B-ORG
+in _ O O
+Velika _ O B-ORG
+Dolina _ O I-ORG
+prosijo _ O O
+, _ O O
+da _ O O
+bi _ O O
+amerikanske _ O O
+trte _ O O
+brezplačno _ O O
+dobile _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+gospodarskemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusse _ O I-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Mestna _ O I-ORG
+občina _ O I-ORG
+Kostanjevica _ O I-ORG
+prosi _ O O
+za _ O O
+brezplačno _ O O
+udobitev _ O O
+amerikanskih _ O O
+trt _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+gospodarskemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusse _ O I-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Gospod _ O O
+Šuklje _ O I-PER
+izroča _ O O
+prošnjo _ O O
+Alojzija _ O B-PER
+Gangl _ O I-PER
+- _ O I-PER
+na _ O I-PER
+, _ O O
+slušatelja _ O O
+c. _ O I-ORG
+kr. _ O I-ORG
+akademije _ O I-ORG
+umetnosti _ O I-ORG
+na _ O I-ORG
+Dunaji _ O I-ORG
+, _ O O
+za _ O O
+podporo _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+Gospod _ O O
+dr. _ O O
+Poklukar _ O I-PER
+izroča _ O O
+prošnjo _ O O
+Uršule _ O B-PER
+Zanoškar _ O I-PER
+, _ O O
+vdove _ O O
+bivšega _ O O
+deželnega _ O O
+oficijala _ O O
+, _ O O
+zdaj _ O O
+na _ O O
+Kranjskigori _ O I-LOC
+, _ O O
+za _ O O
+podaljšanje _ O O
+miloščine _ O O
+120 _ O O
+gld _ O O
+. _ O O
+od _ O O
+1. _ O I-DATE
+aprila _ O I-DATE
+1887 _ O I-DATE
+naprej _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+
+4. _ O O
+
+Volitev _ O O
+dveh _ O O
+rediteljev _ O O
+. _ O O
+
+4. _ O O
+
+Wahl _ O O
+zweier _ O O
+Ordner _ O O
+. _ O O
+
+Poslanec _ O O
+dr. _ O O
+Vošnjak _ O I-PER
+: _ O O
+
+Nasvetujem _ O O
+, _ O O
+da _ O O
+se _ O O
+za _ O O
+reditelja _ O O
+izvolita _ O O
+tista _ O O
+dva _ O O
+gospoda _ O O
+poslanca _ O O
+, _ O O
+ki _ O O
+sta _ O O
+tudi _ O O
+lani _ O O
+ta _ O O
+posel _ O O
+opravljala _ O O
+. _ O O
+
+Gospoda _ O O
+Kersnik _ O B-PER
+in _ O O
+baron _ O O
+Lichtenberg _ O B-PER
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Gospodje _ O O
+, _ O O
+ki _ O O
+so _ O O
+s _ O O
+tem _ O O
+zadovoljni _ O O
+, _ O O
+prosim _ O O
+naj _ O O
+izvolijo _ O O
+se _ O O
+vzdigniti _ O O
+. _ O O
+
+( _ O O
+Obvelja _ O O
+— _ O O
+Angenommen _ O O
+. _ O O
+) _ O O
+
+5. _ O O
+
+Volitev _ O O
+dveh _ O O
+verifikatorjev _ O O
+. _ O O
+
+5. _ O O
+
+Wahl _ O O
+zweier _ O O
+Verificatoren _ O O
+. _ O O
+
+Poslanec _ O O
+dr. _ O O
+Vošnjak _ O B-PER
+: _ O O
+
+Isto _ O O
+- _ O O
+tako _ O O
+nasvetujem _ O O
+, _ O O
+da _ O O
+se _ O O
+tudi _ O O
+za _ O O
+verifikatorja _ O O
+izvolita _ O O
+tista _ O O
+dva _ O O
+gospoda _ O O
+, _ O O
+ki _ O O
+sta _ O O
+lani _ O O
+to _ O O
+opravljala _ O O
+; _ O O
+gospoda _ O O
+Deschmann _ O B-PER
+in _ O O
+Robič _ O B-PER
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Prosim _ O O
+gospode _ O O
+, _ O O
+ki _ O O
+so _ O O
+za _ O O
+predlog _ O O
+, _ O O
+naj _ O O
+blagovolijo _ O O
+se _ O O
+vzdigniti _ O O
+. _ O O
+
+( _ O O
+Obvelja _ O O
+. _ O O
+
+— _ O O
+Angenommen _ O O
+. _ O O
+) _ O O
+
+6. _ O O
+
+Volitev _ O O
+finančnega _ O I-ORG-U
+odseka _ O I-ORG-U
+11 _ O O
+članov _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+predlog _ O O
+. _ O O
+
+6. _ O O
+
+Wahl _ O O
+eines _ O O
+Finanzausschusses _ O B-ORG-U
+von _ O O
+11 _ O O
+Mitgliedern _ O O
+. _ O O
+
+Antrag _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Pretrgam _ O O
+sejo _ O O
+za _ O O
+kratek _ O O
+čas _ O O
+, _ O O
+da _ O O
+se _ O O
+gospodje _ O O
+poslanci _ O O
+pogovore _ O O
+o _ O O
+volitvi _ O O
+deželno _ O O
+- _ O O
+zborskih _ O O
+odsekov _ O O
+. _ O O
+
+( _ O O
+Seja _ O O
+prestane _ O O
+ob _ O O
+45. _ O I-TIME
+minuti _ O I-TIME
+čez _ O I-TIME
+11. _ O I-TIME
+uro _ O I-TIME
+in _ O O
+se _ O O
+zopet _ O O
+začne _ O O
+ob _ O O
+50 _ O B-TIME
+minuti _ O I-TIME
+čez _ O I-TIME
+11. _ O I-TIME
+uro _ O I-TIME
+— _ O O
+
+Die _ O O
+Sitzung _ O O
+wird _ O O
+um _ O O
+11 _ O B-TIME
+Uhr _ O I-TIME
+45 _ O I-TIME
+Minuten _ O I-TIME
+unterbrochen _ O O
+und _ O O
+um _ O O
+11 _ O B-TIME
+Uhr _ O I-TIME
+50 _ O I-TIME
+Minuten _ O I-TIME
+wieder _ O O
+aufgenommen _ O O
+. _ O O
+) _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+( _ O O
+pozvoni _ O O
+— _ O O
+gibt _ O O
+das _ O O
+Glockenzeichen _ O O
+. _ O O
+) _ O O
+
+Deželni _ O O
+odbor _ O O
+predlaga _ O O
+volitev _ O O
+finančnega _ O I-ORG-U
+odseka _ O I-ORG-U
+11 _ O O
+članov _ O O
+. _ O O
+
+( _ O O
+Obvelja _ O O
+— _ O O
+Angenommen _ O O
+. _ O O
+) _ O O
+
+Gospodje _ O O
+poslanci _ O O
+naj _ O O
+blagovolijo _ O O
+oddati _ O O
+glasovnice _ O O
+. _ O O
+
+( _ O O
+Zgodi _ O O
+se _ O O
+— _ O O
+Geschieht _ O O
+. _ O O
+) _ O O
+
+7. _ O O
+
+Volitev _ O O
+gospodarskega _ O B-ORG-U
+odseka _ O I-ORG-U
+9 _ O O
+članov _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+predlog _ O O
+. _ O O
+
+7. _ O O
+
+Wahl _ O O
+eines _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusses _ O I-ORG-U
+von _ O O
+9 _ O O
+Mitgliedern _ O O
+. _ O O
+
+Antrag _ O O
+des _ O O
+Landesansschusses _ O B-ORG-U
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Deželni _ O B-ORG-U
+odbor _ O I-ORG-U
+predlaga _ O O
+volitev _ O O
+gospodarskega _ O B-ORG-U
+odseka _ O I-ORG-U
+9 _ O O
+članov _ O O
+. _ O O
+
+( _ O O
+Obvelja _ O O
+— _ O O
+Angenommen _ O O
+. _ O O
+) _ O O
+
+Prosim _ O O
+gospode _ O O
+poslance _ O O
+, _ O O
+naj _ O O
+blagovolijo _ O O
+oddati _ O O
+glasovnice _ O O
+. _ O O
+
+( _ O O
+Zgodi _ O O
+se _ O O
+— _ O O
+Geschieht _ O O
+. _ O O
+) _ O O
+
+8. _ O O
+
+Volitev _ O O
+odseka _ O B-ORG-U
+7 _ O I-ORG-U
+članov _ O I-ORG-U
+za _ O I-ORG-U
+deželno _ O I-ORG-U
+- _ O I-ORG-U
+odborsko _ O I-ORG-U
+letno _ O I-ORG-U
+poročilo _ O I-ORG-U
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+predlog _ O O
+. _ O O
+
+8. _ O O
+
+Wahl _ O O
+eines _ O O
+Rechenschaftsberichts _ O B-ORG-U
+- _ O I-ORG-U
+Ausschusses _ O I-ORG-U
+von _ O O
+7 _ O O
+Mitgliedern _ O O
+. _ O O
+
+Antrag _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Deželni _ O B-ORG-U
+odbor _ O I-ORG-U
+nasvetuje _ O O
+volitev _ O O
+odseka _ O B-ORG-U
+7 _ O I-ORG-U
+članov _ O I-ORG-U
+za _ O I-ORG-U
+deželno _ O I-ORG-U
+- _ O I-ORG-U
+odborsko _ O I-ORG-U
+letno _ O I-ORG-U
+poročilo _ O I-ORG-U
+. _ O O
+
+( _ O O
+Obvelja _ O O
+— _ O O
+Angenommen _ O O
+. _ O O
+) _ O O
+
+Prosim _ O O
+gospode _ O O
+poslance _ O O
+, _ O O
+naj _ O O
+blagovolijo _ O O
+oddati _ O O
+glasovnice _ O O
+. _ O O
+
+( _ O O
+Zgodi _ O O
+se _ O O
+— _ O O
+Geschieht _ O O
+. _ O O
+) _ O O
+
+Za _ O O
+skrutatorja _ O O
+finančnega _ O B-ORG-U
+odseka _ O I-ORG-U
+imenujem _ O O
+gospoda _ O O
+poslanca _ O O
+dr. _ O O
+Mosche-a _ O I-PER
+in _ O O
+Luckmann-a _ O B-PER
+. _ O O
+
+Za _ O O
+skrutatorja _ O O
+gospodarskega _ O I-ORG-U
+odseka _ O I-ORG-U
+prosim _ O O
+skrutinij _ O O
+prevzeti _ O O
+gospoda _ O O
+poslanca _ O O
+dr. _ O O
+vit _ O O
+. _ O O
+
+Gutmansthal-a _ O I-PER
+in _ O O
+dr. _ O O
+vit _ O O
+. _ O O
+
+Bleiweis _ O B-PER
+- _ O I-PER
+Trsteniškega _ O I-PER
+. _ O O
+
+Za _ O O
+skrutatorja _ O O
+odseka _ O I-ORG-U
+za _ O I-ORG-U
+pregledovanje _ O I-ORG-U
+letnega _ O I-ORG-U
+poročila _ O I-ORG-U
+imenujem _ O O
+gospoda _ O O
+poslanca _ O O
+Hren-a _ O I-PER
+in _ O O
+grofa _ O O
+Auersperg-a _ O B-PER
+. _ O O
+
+Zur _ O O
+Vornahme _ O O
+des _ O O
+Scrutiniums _ O O
+unterbreche _ O O
+ich _ O O
+die _ O O
+Sitzung _ O O
+. _ O O
+
+( _ O O
+Seja _ O O
+prestane _ O O
+ob _ O O
+12. _ O I-TIME
+uri _ O I-TIME
+in _ O O
+se _ O O
+zopet _ O O
+začne _ O O
+ob _ O O
+10. _ O B-TIME
+minuti _ O I-TIME
+čez _ O I-TIME
+12. _ O I-TIME
+uro _ O I-TIME
+. _ O O
+
+— _ O O
+
+Die _ O O
+Sitzung _ O O
+wird _ O O
+um _ O O
+12 _ O B-TIME
+Uhr _ O I-TIME
+unterbrochen _ O O
+und _ O O
+mit _ O O
+12 _ O B-TIME
+Uhr _ O I-TIME
+10 _ O I-TIME
+Minuten _ O I-TIME
+wieder _ O O
+aufgenommen _ O O
+. _ O O
+) _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+( _ O O
+pozvoni _ O O
+— _ O O
+gibt _ O O
+das _ O O
+Glockenzeichen _ O O
+. _ O O
+) _ O O
+
+Seja _ O O
+se _ O O
+nadaljuje _ O O
+. _ O O
+
+Ich _ O O
+bitte _ O O
+das _ O O
+Ergebniß _ O O
+der _ O O
+Wahl _ O O
+des _ O O
+Finanz _ O I-ORG-U
+- _ O I-ORG-U
+Ausschusses _ O I-ORG-U
+zu _ O O
+verkünden _ O O
+. _ O O
+
+Poslanec _ O O
+dr. _ O O
+Mosche _ O I-PER
+: _ O O
+
+Prosim _ O O
+besede _ O O
+! _ O O
+
+Oddanih _ O O
+je _ O O
+33 _ O O
+glasovnic _ O O
+in _ O O
+izvoljeni _ O O
+so _ O O
+enoglasno _ O O
+gospodje _ O O
+: _ O O
+vitez _ O O
+dr. _ O O
+Bleiweis _ O B-PER
+, _ O O
+Detela _ O B-PER
+, _ O O
+dr. _ O O
+Mosche _ O B-PER
+, _ O O
+Murnik _ O B-PER
+, _ O O
+dr. _ O O
+Poklukar _ O B-PER
+, _ O O
+Šuklje _ O B-PER
+, _ O O
+dr. _ O O
+Vošnjak _ O B-PER
+, _ O O
+Deschmann _ O B-PER
+, _ O O
+Luckmann _ O B-PER
+in _ O O
+baron _ O O
+Schwegel _ O B-PER
+; _ O O
+z _ O O
+32 _ O O
+glasovi _ O O
+Klun _ O B-PER
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Prosim _ O O
+naznaniti _ O O
+izid _ O O
+volitve _ O O
+gospodarskega _ O I-ORG-U
+odseka _ O I-ORG-U
+. _ O O
+
+Poslanec _ O O
+vitez _ O O
+dr. _ O O
+Bleiweis _ O I-PER
+: _ O O
+
+Oddanih _ O O
+je _ O O
+bilo _ O O
+34 _ O O
+glasovnic _ O O
+in _ O O
+izvoljeni _ O O
+so _ O O
+enoglasno _ O O
+gospodje _ O O
+poslanci _ O O
+: _ O O
+Detela _ O B-PER
+, _ O O
+Kavčič _ O B-PER
+, _ O O
+dr. _ O O
+Poklukar _ O B-PER
+, _ O O
+dr. _ O O
+Samec _ O B-PER
+, _ O O
+baron _ O O
+Taufferer _ O B-PER
+, _ O O
+Faber _ O B-PER
+, _ O O
+baron _ O O
+Lichtenberg _ O B-PER
+. _ O O
+
+32 _ O O
+glasov _ O O
+sta _ O O
+dobila _ O O
+g. _ O O
+poslanca _ O O
+dr. _ O O
+Papež _ O B-PER
+in _ O O
+Pakiž _ O B-PER
+. _ O O
+
+Landeshauptmann _ O O
+: _ O O
+
+Ich _ O O
+bitte _ O O
+das _ O O
+Resultat _ O O
+der _ O O
+Wahl _ O O
+des _ O O
+Rechenschaftsberichts _ O I-ORG-U
+- _ O I-ORG-U
+Ausschusses _ O I-ORG-U
+bekannt _ O O
+geben _ O O
+zu _ O O
+wollen _ O O
+. _ O O
+
+Poslanec _ O O
+Hren _ O I-PER
+: _ O O
+
+Oddanih _ O O
+je _ O O
+bilo _ O O
+33 _ O O
+glasovnic _ O O
+in _ O O
+izvoljeni _ O O
+so _ O O
+s _ O O
+33 _ O O
+glasovi _ O O
+gospodje _ O O
+poslanci _ O O
+: _ O O
+Dev _ O B-PER
+, _ O O
+Hren _ O B-PER
+, _ O O
+dr. _ O O
+Sterbenec _ O B-PER
+, _ O O
+Stegnar _ O B-PER
+, _ O O
+dr. _ O O
+Mauer _ O B-PER
+in _ O O
+grof _ O O
+Auersperg _ O B-PER
+. _ O O
+
+Z _ O O
+32 _ O O
+glasovi _ O O
+gospod _ O O
+Robič _ O B-PER
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Prosim _ O O
+čestite _ O O
+odseke _ O O
+, _ O O
+da _ O O
+bi _ O O
+se _ O O
+konstituirali _ O O
+in _ O O
+si _ O O
+volili _ O O
+načelnike _ O O
+in _ O O
+njihove _ O O
+namestnike _ O O
+. _ O O
+
+( _ O O
+Po _ O O
+kratkem _ O O
+prestanku _ O O
+— _ O O
+Nach _ O O
+kurzer _ O O
+Unterbrechung _ O O
+. _ O O
+) _ O O
+
+Die _ O O
+Ausschüsse _ O O
+haben _ O O
+sich _ O O
+folgendermaßen _ O O
+constituirt _ O O
+: _ O O
+
+Der _ O O
+Finanzausschuß _ O I-ORG-U
+hat _ O O
+den _ O O
+Herrn _ O O
+Abgeordneten _ O O
+Dr. _ O O
+Mosche _ O I-PER
+zum _ O O
+Obmann _ O O
+und _ O O
+den _ O O
+Herrn _ O O
+Deschmann _ O B-PER
+als _ O O
+Stellvertreter _ O O
+gewählt _ O O
+. _ O O
+
+Gospodarski _ O I-ORG-U
+odsek _ O I-ORG-U
+izvolil _ O O
+je _ O O
+gospoda _ O O
+dr. _ O O
+Poklukar-ja _ O I-PER
+načelnikom _ O O
+in _ O O
+gospoda _ O O
+barona _ O O
+Taufferer-ja _ O B-PER
+namestnikom _ O O
+. _ O O
+
+Odsek _ O I-ORG-U
+za _ O I-ORG-U
+letno _ O I-ORG-U
+poročilo _ O I-ORG-U
+izvolil _ O O
+je _ O O
+gospoda _ O O
+dr. _ O O
+Sterben _ O I-PER
+- _ O I-PER
+ca _ O I-PER
+načelnikom _ O O
+in _ O O
+gospoda _ O O
+dr. _ O O
+Mauer-ja _ O B-PER
+namestnikom _ O O
+. _ O O
+
+Poslanec _ O O
+Murnik _ O B-PER
+: _ O O
+
+Slavni _ O O
+zbor _ O O
+! _ O O
+
+Več _ O O
+častitih _ O O
+gospodov _ O O
+poslancev _ O O
+popraševalo _ O O
+je _ O O
+, _ O O
+zakaj _ O O
+deželni _ O I-ORG-U
+odbor _ O I-ORG-U
+letos _ O O
+ni _ O O
+nasvetoval _ O O
+volitve _ O O
+upravnega _ O B-ORG-U
+in _ O O
+peticijskega _ O B-ORG-U
+odseka _ O I-ORG-U
+in _ O O
+zakaj _ O O
+se _ O O
+vže _ O O
+danes _ O O
+voli _ O O
+odsek _ O B-ORG-U
+za _ O I-ORG-U
+deželno _ O I-ORG-U
+- _ O I-ORG-U
+odborsko _ O I-ORG-U
+letno _ O I-ORG-U
+poročilo _ O I-ORG-U
+. _ O O
+
+Jaz _ O O
+se _ O O
+vsojam _ O O
+v _ O O
+imenu _ O O
+deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+slavnemu _ O O
+zboru _ O O
+v _ O O
+tej _ O O
+zadevi _ O O
+sledeče _ O O
+naznaniti _ O O
+. _ O O
+
+Deželni _ O B-ORG-U
+odbor _ O I-ORG-U
+je _ O O
+bil _ O O
+mnenja _ O O
+, _ O O
+da _ O O
+nam _ O O
+ni _ O O
+treba _ O O
+v _ O O
+1. _ O O
+seji _ O O
+voliti _ O O
+upravnega _ O B-ORG-U
+odseka _ O I-ORG-U
+in _ O O
+sicer _ O O
+zarad _ O O
+tega _ O O
+ne _ O O
+, _ O O
+ker _ O O
+ni _ O O
+nobenih _ O O
+postavnih _ O O
+načrtov _ O O
+slavnemu _ O O
+zboru _ O O
+predloženih _ O O
+. _ O O
+
+Ker _ O O
+smo _ O O
+pa _ O O
+vedeli _ O O
+, _ O O
+da _ O O
+bodo _ O O
+postavni _ O O
+načrti _ O O
+prišli _ O O
+pred _ O O
+slavni _ O O
+zbor _ O O
+, _ O O
+od _ O O
+katerih _ O O
+pa _ O O
+vemo _ O O
+, _ O O
+da _ O O
+bi _ O O
+ne _ O O
+bilo _ O O
+dobro _ O O
+, _ O O
+ko _ O O
+bi _ O O
+se _ O O
+za _ O O
+vse _ O O
+tisti _ O O
+eni _ O O
+in _ O O
+isti _ O O
+odsek _ O O
+volil _ O O
+, _ O O
+bili _ O O
+smo _ O O
+mnenja _ O O
+, _ O O
+da _ O O
+je _ O O
+najbolj _ O O
+prilično _ O O
+, _ O O
+ko _ O O
+pride _ O O
+postavni _ O O
+načrt _ O O
+, _ O O
+za _ O O
+tistega _ O O
+voliti _ O O
+odsek _ O O
+ad _ O O
+hoc _ O O
+. _ O O
+
+Zarad _ O O
+tega _ O O
+se _ O O
+ni _ O O
+predlagalo _ O O
+, _ O O
+da _ O O
+bi _ O O
+se _ O O
+upravni _ O B-ORG-U
+odsek _ O I-ORG-U
+volil _ O O
+. _ O O
+
+Volitve _ O O
+peticijskega _ O B-ORG-U
+odseka _ O I-ORG-U
+zarad _ O O
+tega _ O O
+nismo _ O O
+predlagali _ O O
+, _ O O
+ker _ O O
+večletna _ O O
+skušnja _ O O
+uči _ O O
+, _ O O
+da _ O O
+nima _ O O
+nič _ O O
+opravila _ O O
+, _ O O
+ker _ O O
+se _ O O
+vse _ O O
+prošnje _ O O
+tičejo _ O O
+ali _ O O
+financ _ O O
+ali _ O O
+pa _ O O
+gospodarstva _ O O
+deželnega _ O O
+. _ O O
+
+Predlagali _ O O
+smo _ O O
+pa _ O O
+, _ O O
+da _ O O
+bi _ O O
+se _ O O
+danes _ O O
+volil _ O O
+tudi _ O O
+odsek _ O B-ORG-U
+za _ O I-ORG-U
+deželno _ O I-ORG-U
+- _ O I-ORG-U
+odborsko _ O I-ORG-U
+letno _ O I-ORG-U
+poročilo _ O I-ORG-U
+, _ O O
+ker _ O O
+v _ O O
+I. _ O O
+seji _ O O
+navadno _ O O
+ni _ O O
+veliko _ O O
+dela _ O O
+in _ O O
+je _ O O
+prav _ O O
+, _ O O
+da _ O O
+se _ O O
+eno _ O O
+delo _ O O
+konča _ O O
+, _ O O
+da _ O O
+se _ O O
+bode _ O O
+, _ O O
+ko _ O O
+pride _ O O
+poročilo _ O O
+iz _ O O
+tiskarne _ O O
+, _ O O
+precej _ O O
+lahko _ O O
+izročilo _ O O
+odseku _ O O
+. _ O O
+
+To _ O O
+, _ O O
+prosim _ O O
+, _ O O
+naj _ O O
+bi _ O O
+slavni _ O O
+zbor _ O O
+vzel _ O O
+na _ O O
+znanje _ O O
+. _ O O
+
+9. _ O O
+
+Priloga _ O O
+1 _ O O
+. _ O O
+
+Prisilne _ O O
+delalnice _ O O
+zaklada _ O O
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+9. _ O O
+
+Beilage _ O O
+1 _ O O
+. _ O O
+
+Zwangsarbeitshausfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+
+10. _ O O
+
+Priloga _ O O
+2 _ O O
+. _ O O
+
+Bolničnega _ O I-MISC
+, _ O I-MISC
+blazničnega _ O I-MISC
+, _ O I-MISC
+porodniškega _ O I-MISC
+in _ O I-MISC
+najdenškega _ O I-MISC
+zaklada _ O I-MISC
+proračuni _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+10. _ O O
+
+Beilage _ O O
+2 _ O O
+. _ O O
+
+Kranken _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Irren _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Gebär _ O I-MISC
+- _ O I-MISC
+und _ O I-MISC
+Findelhausfonds _ O I-MISC
+- _ O O
+Voranschläge _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+
+11. _ O O
+
+Priloga _ O O
+3 _ O O
+. _ O O
+
+Grmske _ O I-ORG
+vino _ O I-ORG
+- _ O I-ORG
+in _ O I-ORG
+sadjerejske _ O I-ORG
+šole _ O I-ORG
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+11. _ O O
+
+Beilage _ O O
+3 _ O O
+. _ O O
+
+Staudner _ O I-ORG
+Wein _ O I-ORG
+- _ O I-ORG
+und _ O I-ORG
+Obstbauschul _ O I-ORG
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+12. _ O O
+
+Priloga _ O O
+4 _ O O
+. _ O O
+
+Zaklada _ O I-MISC
+učiteljskih _ O I-MISC
+penzij _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+12. _ O O
+
+Beilage _ O O
+4 _ O O
+. _ O O
+
+Lehrerpensionsfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+13. _ O O
+
+Priloga _ O O
+5 _ O O
+. _ O O
+
+Normalno _ O I-MISC
+- _ O I-MISC
+šolskega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Predloga _ O O
+deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+. _ O O
+
+13. _ O O
+
+Beilage _ O O
+5 _ O O
+. _ O O
+
+Normalschulfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+Pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+14. _ O O
+
+Priloga _ O O
+6 _ O O
+. _ O O
+
+Ustanovnih _ O I-MISC
+zakladov _ O I-MISC
+proračuni _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+14. _ O O
+
+Beilage _ O O
+6 _ O O
+. _ O O
+
+Stistungsfonde _ O I-MISC
+- _ O O
+Voranschläge _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+15. _ O O
+
+Priloga _ O O
+7 _ O O
+. _ O O
+
+Ustanovnih _ O I-MISC
+zakladov _ O I-MISC
+računski _ O O
+zaključki _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+15. _ O O
+
+Beilage _ O O
+7 _ O O
+. _ O O
+
+Stiftungsfonde _ O I-MISC
+- _ O O
+Rechnungsabschlüsse _ O O
+Pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+16. _ O O
+
+Priloga _ O O
+8 _ O O
+. _ O O
+
+Hiralničnega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887. _ O I-DATE
+in _ O O
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O B-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+16. _ O O
+
+Beilage _ O O
+8 _ O O
+. _ O O
+
+Siechenfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+Pro _ O O
+1887 _ O I-DATE
+und _ O O
+Rechnungsabschluß _ O O
+Pro _ O O
+1885 _ O B-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+17. _ O O
+
+Priloga _ O O
+9 _ O O
+. _ O O
+
+Bolničnega _ O I-MISC
+, _ O I-MISC
+blazničnega _ O I-MISC
+, _ O I-MISC
+porodniškega _ O I-MISC
+in _ O I-MISC
+najdenškega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključki _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+17. _ O O
+
+Beilage _ O O
+9 _ O O
+. _ O O
+
+Kranken _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Irren _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Gebär _ O I-MISC
+- _ O I-MISC
+und _ O I-MISC
+Findelhausfonds _ O I-MISC
+- _ O O
+Rechnungsabschlüsse _ O O
+Pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesansschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+18. _ O O
+
+Priloga _ O O
+10 _ O O
+. _ O O
+
+Slapske _ O I-ORG
+vinarske _ O I-ORG
+in _ O I-ORG
+sadjarske _ O I-ORG
+šole _ O I-ORG
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O O
+odbora _ O O
+predloga _ O O
+. _ O O
+
+18. _ O O
+
+Beilage _ O O
+10 _ O O
+. _ O O
+
+Slaper _ O I-ORG
+Wein _ O I-ORG
+- _ O I-ORG
+und _ O I-ORG
+Obstbauschul _ O I-ORG
+- _ O O
+Rechnungsabschluß _ O O
+Pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+) _ O O
+
+19. _ O O
+
+Priloga _ O O
+11 _ O O
+. _ O O
+
+Zemljiško _ O I-MISC
+- _ O I-MISC
+odveznega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+19. _ O O
+
+Beilage _ O O
+11 _ O O
+. _ O O
+
+Grundentlastungsfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+Pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesansschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+20. _ O O
+
+Priloga _ O O
+12 _ O O
+. _ O O
+
+Prisilne _ O I-MISC
+delalnice _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+20. _ O O
+
+Beilage _ O O
+12 _ O O
+. _ O O
+
+Zwangsarbeitshausfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+Pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+21. _ O O
+
+Priloga _ O O
+13 _ O O
+. _ O O
+
+Zemljiško _ O I-MISC
+- _ O I-MISC
+odveznega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+21. _ O O
+
+Beilage _ O O
+13 _ O O
+. _ O O
+
+Grundentlastungsfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+22. _ O O
+
+Priloga _ O O
+14 _ O O
+. _ O O
+
+Deželno _ O I-MISC
+- _ O I-MISC
+kulturnega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887. _ O I-DATE
+in _ O O
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O B-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+22. _ O O
+
+Beilage _ O O
+14 _ O O
+. _ O O
+
+Landesculturfonds _ O I-MISC
+- _ O O
+Voranauschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+und _ O O
+Rechnungsabschluß _ O O
+Pro _ O O
+1885 _ O B-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+) _ O O
+
+23. _ O O
+
+Priloga _ O O
+15 _ O O
+. _ O O
+
+Gledišnega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+23. _ O O
+
+Beilage _ O O
+15 _ O O
+. _ O O
+
+Theaterfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+24. _ O O
+
+Priloga _ O O
+16 _ O O
+. _ O O
+
+Gledišnega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+24. _ O O
+
+Beilage _ O O
+16 _ O O
+. _ O O
+
+Theaterfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+Pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+) _ O O
+
+25. _ O O
+
+Priloga _ O O
+17 _ O O
+. _ O O
+
+Normalno _ O I-MISC
+- _ O I-MISC
+šolskega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+25. _ O O
+
+Beilage _ O O
+17 _ O O
+. _ O O
+
+Normalschulfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+Pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+26. _ O O
+
+Priloga _ O O
+18 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+za _ O O
+stran _ O O
+podpor _ O O
+za _ O O
+šolske _ O O
+zgradbe _ O O
+. _ O O
+
+26. _ O O
+
+Beilage _ O O
+18 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+betreffend _ O O
+die _ O O
+Subventionen _ O O
+für _ O O
+Schulhausbauten _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+27. _ O O
+
+Priloga _ O O
+19 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+za _ O O
+stran _ O O
+letne _ O O
+remuneracije _ O O
+za _ O O
+živino _ O O
+- _ O O
+zdravnika _ O O
+v _ O O
+Radoljici _ O I-LOC
+. _ O O
+
+27. _ O O
+
+Beilage _ O O
+19 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+Jahresremuneration _ O O
+für _ O O
+den _ O O
+Thierarzt _ O O
+in _ O O
+Radmannsdorf _ O I-LOC
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+28. _ O O
+
+Priloga _ O O
+20 _ O O
+. _ O O
+
+Muzejskega _ O I-MISC
+zaklada _ O I-MISC
+proračun _ O O
+za _ O O
+l. _ O O
+1887 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+28. _ O O
+
+Beilage _ O O
+20 _ O O
+. _ O O
+
+Museumsfonds _ O I-MISC
+- _ O O
+Voranschlag _ O O
+pro _ O O
+1887 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+29. _ O O
+
+Priloga _ O O
+21 _ O O
+. _ O O
+
+Muzejskega _ O I-MISC
+zaklada _ O I-MISC
+računski _ O O
+zaključek _ O O
+za _ O O
+l. _ O O
+1885 _ O I-DATE
+. _ O O
+
+Deželnega _ O I-ORG-U
+odbora _ O I-ORG-U
+predloga _ O O
+. _ O O
+
+29. _ O O
+
+Beilage _ O O
+21 _ O O
+. _ O O
+
+Museumsfonds _ O I-MISC
+- _ O O
+Rechnungsabschluß _ O O
+pro _ O O
+1885 _ O I-DATE
+. _ O O
+
+Landesausschuß _ O I-ORG-U
+- _ O O
+Vorlage _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+30. _ O O
+
+Priloga _ O O
+22 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+o _ O O
+porabi _ O O
+izrednega _ O O
+kredita _ O O
+18.000 _ O O
+gld. _ O O
+, _ O O
+dovoljenega _ O O
+v _ O O
+ta _ O O
+namen _ O O
+, _ O O
+da _ O O
+se _ O O
+popravijo _ O O
+v _ O O
+jeseni _ O O
+l. _ O O
+1885. _ O I-DATE
+v _ O O
+političnem _ O I-ORG
+okraji _ O I-ORG
+Radoljskem _ O I-ORG
+po _ O O
+vremenskih _ O O
+nezgodah _ O O
+na _ O O
+javnem _ O O
+imetji _ O O
+napravljene _ O O
+poškodbe _ O O
+in _ O O
+o _ O O
+napravah _ O O
+izvršenih _ O O
+v _ O O
+to _ O O
+svrho _ O O
+, _ O O
+da _ O O
+se _ O O
+ohranijo _ O O
+nekatere _ O O
+vasi _ O O
+tega _ O O
+okraja _ O O
+po _ O O
+povodnji _ O O
+preteče _ O O
+jim _ O O
+nevarnosti _ O O
+. _ O O
+
+30. _ O O
+
+Beilage _ O O
+22 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+über _ O O
+die _ O O
+Verwendung _ O O
+der _ O O
+außerordentlichen _ O O
+Dotation _ O O
+von _ O O
+18.000 _ O O
+fl _ O O
+. _ O O
+für _ O O
+Sanirung _ O O
+der _ O O
+im _ O O
+Herbste _ O O
+1885 _ O I-DATE
+im _ O O
+Politischen _ O I-ORG
+Bezirke _ O I-ORG
+Radmannsdorf _ O I-ORG
+durch _ O O
+elementare _ O O
+Gewalten _ O O
+an _ O O
+öffentlichem _ O O
+Gute _ O O
+verursachten _ O O
+Schäden _ O O
+und _ O O
+über _ O O
+die _ O O
+zur _ O O
+Sicherung _ O O
+der _ O O
+in _ O O
+diesem _ O O
+Bezirke _ O O
+durch _ O O
+Wassergefahr _ O O
+bedrohten _ O O
+Ortschaften _ O O
+getroffenen _ O O
+Maßregeln _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+31. _ O O
+
+Priloga _ O O
+23 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+zastran _ O O
+režije _ O O
+in _ O O
+hrane _ O O
+v _ O O
+ljubljanski _ O O
+bolnišnici _ O O
+. _ O O
+
+31. _ O O
+
+Beilage _ O O
+23 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O B-ORG-U
+betreffend _ O O
+die _ O O
+Regie _ O O
+- _ O O
+und _ O O
+Speisenvergütung _ O O
+im _ O O
+Krankenhause _ O O
+zu _ O O
+Laibach _ O I-LOC
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+32. _ O O
+
+Priloga _ O O
+24 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+glede _ O O
+oskrbovalnih _ O O
+troškov _ O O
+za _ O O
+uboge _ O O
+bolnike _ O O
+v _ O O
+nejavnih _ O O
+bolnišnicah _ O O
+in _ O O
+v _ O O
+Srbskem _ O I-LOC
+kraljevstvu _ O I-LOC
+. _ O O
+
+32. _ O O
+
+Beilage _ O O
+24 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+Verpflegsgebühren _ O O
+für _ O O
+zahlungsunfähige _ O O
+Kranke _ O O
+in _ O O
+nicht _ O O
+öffentlichen _ O O
+Krankenhäusern _ O O
+und _ O O
+im _ O O
+Königreiche _ O I-LOC
+Serbien _ O I-LOC
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+33. _ O O
+
+Priloga _ O O
+25 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+o _ O O
+končno _ O O
+veljavni _ O O
+uredbi _ O O
+najnižje _ O O
+dopuščene _ O O
+priklade _ O O
+na _ O O
+neposrednje _ O O
+davke _ O O
+za _ O O
+zemljiško _ O I-MISC
+- _ O I-MISC
+odvezni _ O I-MISC
+zaklad _ O I-MISC
+. _ O O
+
+33. _ O O
+
+Beilage _ O O
+25 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+definitive _ O O
+Regelung _ O O
+des _ O O
+Minimums _ O O
+des _ O O
+directen _ O O
+Steuerzuschlages _ O O
+für _ O O
+den _ O O
+Grundentlastungsfond _ O I-MISC
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+finančnemu _ O I-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+Finanzausschusse _ O B-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+34. _ O O
+
+Priloga _ O O
+26 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+glede _ O O
+naprave _ O O
+gozdnih _ O O
+drevesnic _ O O
+. _ O O
+
+34. _ O O
+
+Beilage _ O O
+26 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesansschusses _ O B-ORG-U
+betreffend _ O O
+die _ O O
+Errichtung _ O O
+von _ O O
+Forstsaatschulen _ O O
+. _ O O
+
+( _ O O
+Izroči _ O O
+se _ O O
+gospodarskemu _ O B-ORG-U
+odseku _ O I-ORG-U
+— _ O O
+Wird _ O O
+dem _ O O
+volkswirthschaftlichen _ O B-ORG-U
+Ausschusse _ O I-ORG-U
+zugewiesen _ O O
+. _ O O
+) _ O O
+
+35. _ O O
+
+Priloga _ O O
+27 _ O O
+. _ O O
+
+Deželnega _ O B-ORG-U
+odbora _ O I-ORG-U
+poročilo _ O O
+glede _ O O
+začasnega _ O O
+nadaljnega _ O O
+pobiranja _ O O
+deželnih _ O O
+priklad _ O O
+, _ O O
+kakor _ O O
+tudi _ O O
+deželne _ O O
+naklade _ O O
+od _ O O
+porabljenih _ O O
+žganih _ O O
+pijač _ O O
+leta _ O O
+1887 _ O I-DATE
+. _ O O
+
+35. _ O O
+
+Beilage _ O O
+27 _ O O
+. _ O O
+
+Bericht _ O O
+des _ O O
+Landesausschusses _ O I-ORG-U
+betreffend _ O O
+die _ O O
+provisorische _ O O
+Forterhebung _ O O
+der _ O O
+Landesumlagen _ O O
+, _ O O
+sowie _ O O
+der _ O O
+Landesauflage _ O O
+von _ O O
+verbrauchten _ O O
+gebrannten _ O O
+geistigen _ O O
+Flüssigkeiten _ O O
+im _ O O
+Jahre _ O O
+1887 _ O I-DATE
+. _ O O
+
+Poročevalec _ O O
+ces _ O O
+. _ O O
+svet _ O O
+. _ O O
+
+Murnik _ O I-PER
+: _ O O
+
+Slavni _ O O
+zbor _ O O
+! _ O O
+
+Deželni _ O I-ORG-U
+odbor _ O I-ORG-U
+je _ O O
+mnenja _ O O
+, _ O O
+da _ O O
+bi _ O O
+se _ O O
+o _ O O
+predlogu _ O O
+, _ O O
+kateri _ O O
+je _ O O
+v _ O O
+prilogi _ O O
+27. _ O O
+naznanjen _ O O
+, _ O O
+precej _ O O
+danes _ O O
+obravnavalo _ O O
+, _ O O
+ker _ O O
+je _ O O
+stvar _ O O
+nujna _ O O
+. _ O O
+
+Nujnosti _ O O
+mislim _ O O
+, _ O O
+da _ O O
+ni _ O O
+treba _ O O
+na _ O O
+široko _ O O
+razpravljati _ O O
+, _ O O
+ker _ O O
+imamo _ O O
+danes _ O O
+9. _ O I-DATE
+december _ O I-DATE
+in _ O O
+je _ O O
+potreba _ O O
+nujna _ O O
+, _ O O
+da _ O O
+se _ O O
+Najvišje _ O O
+potrjenje _ O O
+za _ O O
+pobiranje _ O O
+teh _ O O
+priklad _ O O
+in _ O O
+naklade _ O O
+do _ O O
+konca _ O O
+tega _ O O
+meseca _ O O
+dobi _ O O
+. _ O O
+
+Ako _ O O
+slavni _ O O
+deželni _ O O
+zbor _ O O
+temu _ O O
+pritrdi _ O O
+, _ O O
+bi _ O O
+se _ O O
+precej _ O O
+obravnavalo _ O O
+o _ O O
+nasvetih _ O O
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Prosim _ O O
+tiste _ O O
+gospode _ O O
+, _ O O
+ki _ O O
+pritrjujejo _ O O
+nujnosti _ O O
+predloga _ O O
+, _ O O
+naj _ O O
+blagovolijo _ O O
+se _ O O
+vzdigniti _ O O
+. _ O O
+
+( _ O O
+Obvelja _ O O
+— _ O O
+Angenommen _ O O
+. _ O O
+) _ O O
+
+Poročevalec _ O O
+ces _ O O
+. _ O O
+svet _ O O
+. _ O O
+
+Murnik _ O I-PER
+: _ O O
+
+Jaz _ O O
+bi _ O O
+le _ O O
+prosil _ O O
+, _ O O
+da _ O O
+bi _ O O
+se _ O O
+slavni _ O O
+zbor _ O O
+izrekel _ O O
+, _ O O
+ali _ O O
+je _ O O
+treba _ O O
+prebrati _ O O
+poročila _ O O
+ali _ O O
+ne _ O O
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Ker _ O O
+nikdo _ O O
+ne _ O O
+zahteva _ O O
+branja _ O O
+poročila _ O O
+, _ O O
+prosim _ O O
+gospoda _ O O
+poročevalca _ O O
+, _ O O
+naj _ O O
+prebere _ O O
+le _ O O
+predlog _ O O
+. _ O O
+
+Poročevalec _ O O
+ces _ O O
+. _ O O
+svet _ O O
+. _ O O
+
+Murnik _ O B-PER
+: _ O O
+
+( _ O O
+Bere _ O O
+— _ O O
+Liest _ O O
+:) _ O O
+
+Slavni _ O O
+deželni _ O O
+zbor _ O O
+naj _ O O
+sklene _ O O
+: _ O O
+
+1. _ O O
+
+Za _ O O
+pokritje _ O O
+primanjkav _ O O
+deželnega _ O I-MISC
+, _ O I-MISC
+zemljiško _ O I-MISC
+- _ O I-MISC
+odveznega _ O I-MISC
+in _ O I-MISC
+normalno _ O I-MISC
+- _ O I-MISC
+šolskega _ O I-MISC
+zaklada _ O I-MISC
+za _ O O
+leto _ O O
+1887. _ O I-DATE
+pobirati _ O O
+so _ O O
+od _ O O
+1. _ O B-DATE
+januarija _ O I-DATE
+1887. _ O I-DATE
+l. _ O O
+naprej _ O O
+do _ O O
+dneva _ O O
+Najvišjega _ O O
+potrjenja _ O O
+deželno _ O O
+- _ O O
+zborskih _ O O
+sklepov _ O O
+, _ O O
+s _ O O
+katerimi _ O O
+se _ O O
+bodo _ O O
+sklenile _ O O
+deželne _ O O
+priklade _ O O
+za _ O O
+leto _ O O
+1887. _ O B-DATE
+, _ O O
+ravno _ O O
+tiste _ O O
+priklade _ O O
+in _ O O
+naklade _ O O
+, _ O O
+katere _ O O
+so _ O O
+se _ O O
+potrdile _ O O
+za _ O O
+dotične _ O O
+zaklade _ O O
+z _ O O
+Najvišjimi _ O O
+odloki _ O O
+dne _ O O
+1. _ O B-DATE
+aprila _ O I-DATE
+1886 _ O I-DATE
+, _ O O
+dne _ O O
+2. _ O B-DATE
+maja _ O I-DATE
+1886 _ O I-DATE
+in _ O O
+dne _ O O
+30. _ O B-DATE
+aprila _ O I-DATE
+1886 _ O I-DATE
+, _ O O
+namreč _ O O
+: _ O O
+
+a _ O O
+) _ O O
+za _ O O
+deželni _ O I-MISC
+zaklad _ O I-MISC
+z _ O O
+18 _ O O
+% _ O O
+od _ O O
+polne _ O O
+predpisane _ O O
+svote _ O O
+vseh _ O O
+neposrednjih _ O O
+davkov _ O O
+z _ O O
+državnimi _ O O
+dokladami _ O O
+vred _ O O
+; _ O O
+— _ O O
+z _ O O
+20 _ O O
+% _ O O
+od _ O O
+užitnine _ O O
+od _ O O
+vina _ O O
+, _ O O
+vinskega _ O O
+in _ O O
+sadnega _ O O
+mošta _ O O
+in _ O O
+od _ O O
+mesa _ O O
+; _ O O
+— _ O O
+z _ O O
+samostojno _ O O
+naklado _ O O
+po _ O O
+6 _ O O
+gld _ O O
+. _ O O
+od _ O O
+vsakega _ O O
+hektolitra _ O O
+porabljenih _ O O
+žganih _ O O
+pijač _ O O
+, _ O O
+vender _ O O
+pa _ O O
+z _ O O
+omejitvijo _ O O
+, _ O O
+da _ O O
+se _ O O
+naklada _ O O
+na _ O O
+žgane _ O O
+pijače _ O O
+v _ O O
+Ljubljani _ O I-LOC
+, _ O O
+katera _ O O
+velja _ O O
+glede _ O O
+pobiranja _ O O
+užitnine _ O O
+za _ O O
+zaprto _ O O
+mesto _ O O
+, _ O O
+kakor _ O O
+po _ O O
+deželi _ O O
+, _ O O
+ne _ O O
+sme _ O O
+pobirati _ O O
+ne _ O O
+pri _ O O
+napravljanji _ O O
+( _ O O
+kuhanji _ O O
+) _ O O
+, _ O O
+ne _ O O
+pri _ O O
+uvažanji _ O O
+teh _ O O
+pijač _ O O
+v _ O O
+mesto _ O O
+: _ O O
+
+b _ O O
+) _ O O
+za _ O O
+zemljiško _ O O
+- _ O O
+odvezni _ O O
+zaklad _ O O
+s _ O O
+16 _ O O
+% _ O O
+na _ O O
+skupno _ O O
+svoto _ O O
+vseh _ O O
+predpisanih _ O O
+neposrednjih _ O O
+davkov _ O O
+z _ O O
+državnimi _ O O
+dokladami _ O O
+vred _ O O
+in _ O O
+z _ O O
+20 _ O O
+% _ O O
+od _ O O
+užitnine _ O O
+od _ O O
+vina _ O O
+, _ O O
+vinskega _ O O
+in _ O O
+sadnega _ O O
+mošta _ O O
+in _ O O
+od _ O O
+mesa _ O O
+; _ O O
+
+c _ O O
+) _ O O
+za _ O O
+normalno _ O I-MISC
+- _ O I-MISC
+šolski _ O I-MISC
+zaklad _ O I-MISC
+z _ O O
+10 _ O O
+% _ O O
+na _ O O
+skupno _ O O
+svoto _ O O
+vseh _ O O
+predpisanih _ O O
+neposrednjih _ O O
+davkov _ O O
+z _ O O
+državnimi _ O O
+dokladami _ O O
+vred _ O O
+. _ O O
+
+2. _ O O
+
+Deželnemu _ O I-ORG-U
+odboru _ O I-ORG-U
+se _ O O
+naroča _ O O
+, _ O O
+sklepu _ O O
+pod _ O O
+točko _ O O
+1. _ O O
+nemudoma _ O O
+pridobiti _ O O
+Najvišje _ O O
+potrjenje _ O O
+. _ O O
+
+Der _ O O
+hohe _ O O
+Landtag _ O O
+wolle _ O O
+beschließen _ O O
+: _ O O
+
+1. _ O O
+
+Zur _ O O
+Bedeckung _ O O
+des _ O O
+Abganges _ O O
+beim _ O O
+Landes _ O I-MISC
+- _ O I-MISC
+, _ O I-MISC
+Grundentlastungs _ O I-MISC
+- _ O I-MISC
+und _ O I-MISC
+Normalschulfonde _ O I-MISC
+für _ O O
+das _ O O
+Jahr _ O O
+1887 _ O I-DATE
+sind _ O O
+vom _ O O
+1 _ O B-DATE
+. _ O I-DATE
+
+Jänner _ O I-DATE
+1887 _ O I-DATE
+weiter _ O O
+bis _ O O
+zum _ O O
+Tage _ O O
+der _ O O
+Allerhöchsten _ O O
+Sanction _ O O
+der _ O O
+Landtagsbeschlüsse _ O O
+, _ O O
+mit _ O O
+welchem _ O O
+die _ O O
+Landesumlagen _ O O
+für _ O O
+das _ O O
+Jahr _ O O
+1887 _ O B-DATE
+werden _ O O
+beschlossen _ O O
+werden _ O O
+, _ O O
+eben _ O O
+jene _ O O
+Um _ O O
+- _ O O
+und _ O O
+Auflagen _ O O
+einzuheben _ O O
+, _ O O
+welche _ O O
+mit _ O O
+den _ O O
+Allerhöchsten _ O O
+Entschließungen _ O O
+vom _ O O
+1 _ O B-DATE
+. _ O I-DATE
+
+April _ O I-DATE
+1886 _ O I-DATE
+, _ O O
+2. _ O B-DATE
+Mai _ O I-DATE
+1886 _ O I-DATE
+und _ O O
+30 _ O B-DATE
+. _ O I-DATE
+
+April _ O I-DATE
+1886 _ O I-DATE
+für _ O O
+die _ O O
+bezüglichen _ O O
+Fonde _ O O
+genehmiget _ O O
+worden _ O O
+sind _ O O
+, _ O O
+nämlich _ O O
+: _ O O
+
+a _ O O
+) _ O O
+Für _ O O
+den _ O O
+Landesfond _ O I-MISC
+mit _ O O
+18 _ O O
+% _ O O
+von _ O O
+der _ O O
+vollen _ O O
+Vorschreibung _ O O
+aller _ O O
+directen _ O O
+Steuern _ O O
+sammt _ O O
+Staatszuschlägen _ O O
+; _ O O
+mit _ O O
+20 _ O O
+% _ O O
+von _ O O
+der _ O O
+Verzehrungssteuer _ O O
+vom _ O O
+Weine _ O O
+, _ O O
+Wein _ O O
+- _ O O
+und _ O O
+Obstmoste _ O O
+und _ O O
+vom _ O O
+Fleische _ O O
+; _ O O
+mit _ O O
+einer _ O O
+selbstständigen _ O O
+Auflage _ O O
+von _ O O
+6 _ O O
+fl _ O O
+. _ O O
+aus _ O O
+jeden _ O O
+Hektoliter _ O O
+von _ O O
+verbrauchten _ O O
+gebrannten _ O O
+geistigen _ O O
+Flüssigkeiten _ O O
+mit _ O O
+der _ O O
+Einschränkung _ O O
+jedoch _ O O
+, _ O O
+dass _ O O
+die _ O O
+Auflage _ O O
+auf _ O O
+gebrannte _ O O
+geistige _ O O
+Flüssigkeiten _ O O
+in _ O O
+der _ O O
+für _ O O
+die _ O O
+Verzehrungssteuer _ O O
+geschlossen _ O O
+erklärten _ O O
+Stadt _ O O
+Laibach _ O I-LOC
+, _ O O
+gleichwie _ O O
+auf _ O O
+dem _ O O
+offenen _ O O
+Lande _ O O
+, _ O O
+weder _ O O
+bei _ O O
+der _ O O
+Erzeugung _ O O
+, _ O O
+noch _ O O
+bei _ O O
+der _ O O
+Einfuhr _ O O
+eingehoben _ O O
+werden _ O O
+dürfe _ O O
+; _ O O
+
+b _ O O
+) _ O O
+für _ O O
+den _ O O
+Grundentlastungsfond _ O I-MISC
+mit _ O O
+16 _ O O
+% _ O O
+auf _ O O
+die _ O O
+Gesammtsumme _ O O
+aller _ O O
+vorgeschriebenen _ O O
+directen _ O O
+Steuern _ O O
+sammt _ O O
+Staatszuschlägen _ O O
+und _ O O
+mit _ O O
+20 _ O O
+% _ O O
+von _ O O
+der _ O O
+Verzehrungssteuer _ O O
+vom _ O O
+Weine _ O O
+, _ O O
+Wein _ O O
+- _ O O
+und _ O O
+Obstmoste _ O O
+und _ O O
+vom _ O O
+Fleische _ O O
+; _ O O
+
+c _ O O
+) _ O O
+für _ O O
+den _ O O
+Normalschulfond _ O B-MISC
+mit _ O O
+10 _ O O
+% _ O O
+auf _ O O
+die _ O O
+Gesammtsumme _ O O
+aller _ O O
+vorgeschriebenen _ O O
+directen _ O O
+Steuern _ O O
+sammt _ O O
+Staatszuschlägen _ O O
+. _ O O
+
+2. _ O O
+
+Der _ O O
+Landesausschuß _ O I-ORG-U
+wird _ O O
+beauftragt _ O O
+, _ O O
+unverzüglich _ O O
+die _ O O
+Allerhöchste _ O O
+Genehmigung _ O O
+für _ O O
+den _ O O
+Beschluß _ O O
+sub _ O O
+1 _ O O
+einzuholen _ O O
+. _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Otvarjam _ O O
+generalno _ O O
+debato _ O O
+. _ O O
+
+Želi _ O O
+kdo _ O O
+besede _ O O
+? _ O O
+
+( _ O O
+Nihče _ O O
+se _ O O
+ne _ O O
+oglasi _ O O
+— _ O O
+Niemand _ O O
+meldet _ O O
+sich _ O O
+. _ O O
+) _ O O
+
+Želi _ O O
+kdo _ O O
+besede _ O O
+k _ O O
+specijalni _ O O
+debati _ O O
+? _ O O
+
+( _ O O
+Nihče _ O O
+se _ O O
+ne _ O O
+oglasi _ O O
+— _ O O
+Niemand _ O O
+meldet _ O O
+sich _ O O
+. _ O O
+) _ O O
+
+Ako _ O O
+v _ O O
+to _ O O
+privoli _ O O
+slavni _ O O
+zbor _ O O
+, _ O O
+bodem _ O O
+, _ O O
+preziraje _ O O
+opravilni _ O O
+red _ O O
+, _ O O
+obe _ O O
+točki _ O O
+en _ O O
+bloc _ O O
+na _ O O
+glasovanje _ O O
+dal _ O O
+. _ O O
+
+( _ O O
+Pritrjuje _ O O
+se _ O O
+— _ O O
+Zustimmung _ O O
+. _ O O
+) _ O O
+
+Ker _ O O
+toraj _ O O
+ni _ O O
+ugovora _ O O
+, _ O O
+smatram _ O O
+, _ O O
+da _ O O
+je _ O O
+slavni _ O O
+zbor _ O O
+istega _ O O
+mnenja _ O O
+in _ O O
+prosim _ O O
+tiste _ O O
+gospode _ O O
+, _ O O
+ki _ O O
+so _ O O
+za _ O O
+to _ O O
+, _ O O
+da _ O O
+se _ O O
+obe _ O O
+točki _ O O
+deželno _ O O
+- _ O O
+odborskega _ O O
+predloga _ O O
+en _ O O
+bloc _ O O
+sprejmeti _ O O
+, _ O O
+naj _ O O
+blagovolijo _ O O
+se _ O O
+vzdigniti _ O O
+. _ O O
+
+( _ O O
+Predloga _ O O
+obveljata _ O O
+— _ O O
+Die _ O O
+Anträge _ O O
+werden _ O O
+angenommen _ O O
+. _ O O
+) _ O O
+
+Ako _ O O
+ni _ O O
+ugovora _ O O
+, _ O O
+dal _ O O
+bodem _ O O
+predloga _ O O
+sedaj _ O O
+še _ O O
+v _ O O
+3. _ O O
+branji _ O O
+na _ O O
+glasovanje _ O O
+. _ O O
+
+( _ O O
+Pritrjuje _ O O
+se _ O O
+— _ O O
+Zustimmung _ O O
+. _ O O
+) _ O O
+
+Prosim _ O O
+tiste _ O O
+gospode _ O O
+, _ O O
+ki _ O O
+pritrde _ O O
+predlogoma _ O O
+tudi _ O O
+v _ O O
+3. _ O O
+branji _ O O
+, _ O O
+naj _ O O
+blagovolijo _ O O
+se _ O O
+vzdigniti _ O O
+. _ O O
+
+( _ O O
+Obvelja _ O O
+— _ O O
+Angenommen _ O O
+. _ O O
+) _ O O
+
+Deželni _ O O
+glavar _ O O
+: _ O O
+
+Die _ O O
+heutige _ O O
+Tagesordnung _ O O
+ist _ O O
+beendet _ O O
+. _ O O
+
+Ich _ O O
+erlaube _ O O
+mir _ O O
+die _ O O
+nächste _ O O
+Sitzung _ O O
+auf _ O O
+Montag _ O I-DATE
+den _ O I-DATE
+13 _ O I-DATE
+. _ O I-DATE
+
+Dezember _ O I-DATE
+1886 _ O I-DATE
+um _ O O
+10 _ O I-TIME
+Uhr _ O I-TIME
+vormittags _ O I-TIME
+anzuberaumen _ O O
+und _ O O
+zwar _ O O
+, _ O O
+wenn _ O O
+kein _ O O
+Widerspruch _ O O
+erfolgt _ O O
+, _ O O
+mit _ O O
+folgender _ O O
+Tagesordnung _ O O
+: _ O O
+
+( _ O O
+Glej _ O O
+dnevni _ O O
+red _ O O
+prihodnje _ O O
+seje _ O O
+— _ O O
+Siehe _ O O
+die _ O O
+Tagesordnung _ O O
+der _ O O
+nächsten _ O O
+Sitzung _ O O
+) _ O O
+. _ O O
+
+Prosim _ O O
+dovoljenja _ O O
+, _ O O
+da _ O O
+smem _ O O
+, _ O O
+ako _ O O
+bi _ O O
+mi _ O O
+kaj _ O O
+iz _ O O
+gospodarskega _ O I-ORG-U
+odseka _ O I-ORG-U
+došlo _ O O
+, _ O O
+tudi _ O O
+to _ O O
+na _ O O
+dnevni _ O O
+red _ O O
+prihodnje _ O O
+seje _ O O
+postaviti _ O O
+. _ O O
+
+Ker _ O O
+ni _ O O
+ugovora _ O O
+, _ O O
+smatram _ O O
+, _ O O
+da _ O O
+visoki _ O O
+zbor _ O O
+temu _ O O
+pritrdi _ O O
+. _ O O
+
+Finančni _ O B-ORG-U
+in _ O O
+gospodarski _ O B-ORG-U
+odsek _ O I-ORG-U
+zborujeta _ O O
+precej _ O O
+po _ O O
+seji _ O O
+. _ O O
+
+Sklenem _ O O
+sejo _ O O
+. _ O O
+
+Seja _ O O
+se _ O O
+konča _ O O
+ob _ O O
+30. _ O I-TIME
+minuti _ O I-TIME
+čez _ O I-TIME
+12. _ O I-TIME
+uro _ O I-TIME
+popoludne _ O I-TIME
+. _ O O
+
+Schluß _ O O
+der _ O O
+Sitzung _ O O
+12 _ O B-TIME
+Uhr _ O I-TIME
+30 _ O I-TIME
+Minuten _ O I-TIME
+nachmittags _ O I-TIME
+. _ O O
+
+Založil _ O O
+kranjski _ O I-ORG-U
+deželni _ O I-ORG-U
+odbor _ O I-ORG-U
+. _ O O
+
+Tisk _ O O
+Milicev _ O I-ORG
+. _ O O
+
